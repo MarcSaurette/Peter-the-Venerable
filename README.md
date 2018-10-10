@@ -1,7 +1,4 @@
----
-title: Peter the Venerable
-layout: default
----
+
 # The Peter the Venerable Project
 ### Petrus Venerabilis - Pierre le Vénérable
 
