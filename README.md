@@ -1,9 +1,19 @@
+---
+description: >-
+  This site opens a collaborative space for scholars to share in-progress
+  translations of the works of Peter the Venerable, abbot of Cluny (r.
+  1122-1156).
+---
 
-# The Peter the Venerable Project
-### Petrus Venerabilis - Pierre le Vénérable
+# The Petrus Project
 
-This repository/ site contains material for an on-going collaborative project to edit and translate the works of the twelfth-century Cluniac abbot, Peter the Venerable.
+## The Goal
 
-The people contributing to this project include:
+Despite being one of the pre-eminent churchman and prolific authors of the twelfth-century, scholarly work or public interest in Peter the Venerable has traditionally remained low due to the inaccessibility of his writings. The goal of this project is to make accessible on-going \(draft\) translations of Peter's writings in order to begin this work. 
 
-- [Marc Saurette](https://github.com/MarcSaurette)
+{% hint style="info" %}
+ This project is currently the baby of Marc Saurette \(marc.saurette@carleton.ca\) who hopes to turn it into a wider collaboration of scholars. 
+{% endhint %}
+
+
+
