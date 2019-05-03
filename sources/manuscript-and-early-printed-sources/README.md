@@ -2,6 +2,8 @@
 
 ### Manuscript Sources
 
+Paris, BNF, ms. latin 17716 \([ms images](https://gallica.bnf.fr/ark:/12148/btv1b84274413/f9.image.r=ms)/ info page\)
+
 ### Printed Sources
 
 Domini Petri Venerabilis ... opera \(1522\)
