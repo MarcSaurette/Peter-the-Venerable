@@ -8,13 +8,15 @@
 
 ## Miracle Stories
 
-* [Two Books on Miracles](miracle-stories/two-books-on-miracles.md)
-* [Life of Raingarde](miracle-stories/life-of-raingarde.md)
+* [Two Books on Miracles](miracle-stories/intro.demiraculis.md)
+* [Life of Raingarde](miracle-stories/en.raingarde.md)
 * [Life of Peter the Venerable](miracle-stories/life-of-peter-the-venerable.md)
 
 ## Letters
 
-* [The Letter Collection](letters/the-letter-collection.md)
+* [The Letter Collection](letters/the-letter-collection/README.md)
+  * [Dedicatory Epistle \(no. 1\)](letters/the-letter-collection/dedicatory-epistle-no.-1.md)
+  * [Dedicatory Epistle \(no. 2\)](letters/the-letter-collection/en.ep001.md)
 
 ## Sources
 

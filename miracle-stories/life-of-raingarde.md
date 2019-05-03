@@ -1,2 +1,0 @@
-# Life of Raingarde
-
