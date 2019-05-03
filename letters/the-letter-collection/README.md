@@ -20,9 +20,7 @@ S          \(Sylviniaci\) **ms. le Puy, Cathédrale, unnumbered.** \(s. XV, Souv
 
 **Sg**       \(Sancti Germanis\) **Paris BNF lat. 13876**. \(s. XIII, St. Germain-des-Près\). \[SGdP, olim 363, n. 1300\] Contains the letters from PV to Bernard. 1-34r, Letter 28; 34r-47v, 111 \(breaks off\) 48r-50r, 149; 50r-53r, 150. Also contains letters of Bernard, a copy of the Statuta, Franciscan Statuta, and later sermon.
 
-{% hint style="info" %}
 Cf. Constable's _Letters_, II, p. 63-69 for info. about manuscripts containing individual letters.
-{% endhint %}
 
 ## Early Editions
 
