@@ -24,8 +24,9 @@
 ## Letters
 
 * [The Letter Collection](letters/the-letter-collection/README.md)
-  * [Dedicatory Epistle \(no. 1\)](letters/the-letter-collection/dedicatory-epistle-no.-1.md)
-  * [Dedicatory Epistle \(no. 2\)](letters/the-letter-collection/en.ep001.md)
+  * [Prefatory Epistle](letters/the-letter-collection/en.epistolae.000.md)
+  * [1. To Pope Innocent \(1137\)](letters/the-letter-collection/en.epistolae.001.md)
+* [Additional Letters](letters/additional-letters.md)
 
 ## Sources
 
@@ -35,10 +36,10 @@
 
 ## Legal Texts
 
-* [Statutes](leges/statutes.md)
-* [Organization of Household Business](leges/organization-of-household-business.md)
-* [Papal Bulls](leges/papal-bulls.md)
-* [Charters](leges/charters.md)
+* [Statutes](legal-texts/statutes.md)
+* [Organization of Household Business](legal-texts/organization-of-household-business.md)
+* [Papal Bulls](legal-texts/papal-bulls.md)
+* [Charters](legal-texts/charters.md)
 
 ## Poems & Liturgy
 

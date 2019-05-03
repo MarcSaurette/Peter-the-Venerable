@@ -11,8 +11,7 @@ description: >-
 
 Despite being one of the pre-eminent churchman and prolific authors of the twelfth-century, scholarly work or public interest in Peter the Venerable has traditionally remained low due to the inaccessibility of his writings. The goal of this project is to make accessible on-going \(draft\) translations of Peter's writings in order to begin this work. Given the close relationship between abbot Peter and his secretary \(collaborator/ co-author\) Peter of Poitiers, I intend to present his works here as well.
 
-This site is meant as a first draft. It is an attempt to make texts accessible quickly, but likely not taking the form which is the best for consulation nor are the translations finalized. Our goal is to start the process of thinking about how to present, improve and develop this work - while offering interim access.
-
+This site is meant as a rough first draft. It is an attempt to make texts accessible quickly, but likely not taking the form which is the best for consulation nor are the translations finalized. Our goal is to start the process of thinking about how to present, improve and develop this work - while offering interim access.
 
 This project is currently the baby of Marc Saurette \(marc.saurette@carleton.ca\) who hopes to turn it into a wider collaboration of scholars.
 
