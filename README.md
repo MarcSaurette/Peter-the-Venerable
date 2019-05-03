@@ -1,10 +1,7 @@
 ---
 description: >-
-  This site opens a collaborative space for scholars to share in-progress
-  translations of the works of Peter the Venerable, abbot of Cluny (r.
-  1122-1156).
+  This site opens a collaborative space for scholars to share in-progress translations of the works of Peter the Venerable, abbot of Cluny (r. 1122-1156).
 ---
-
 # The Petrus Project
 
 ## The Goal
