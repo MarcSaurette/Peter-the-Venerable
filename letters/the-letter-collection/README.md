@@ -115,7 +115,7 @@ McGuire, Brian P. Friendship and Community: the monastic experience 350-1250. Ci
 
 Proux Lang, Ann. “The Friendship between Peter the Venerable and Bernard of Clairvaux.”: 35- 53.
 
-            A sophmoric attempt to analyze the letters of Peter and Bernard \(it is a modified honour’s thesis from 1969\), basing itself in translated versions of Peter. It argues against Joseph Lortz \(although ironically tending to make that source seem more valid\) that the two abbots had a deep and sustained relationship. Arguing that the terms of endearment go “far beyond ecclesiastical rhetoric” \(39\), she makes claims based on lack of evidence \(theorizing reasons for their absence\). Little to recommend the work.
+            Analyis of the letters of Peter and Bernard \(it is a modified honour’s thesis from 1969\), basing itself in translated versions of Peter. It argues against Joseph Lortz \(though tending to make that source seem more valid\) that the two abbots had a deep and sustained relationship. Arguing that the terms of endearment go “far beyond ecclesiastical rhetoric” \(39\), she makes claims based on lack of evidence \(theorizing reasons for their absence\).
 
 Schmitz, Dom. “Un conflit entre monastères Clunisiennes d’après la correspondance inedite de Pierre leVénérable.” Revue Bénédictine  49 \(1937\): 166-75.
 
@@ -123,7 +123,7 @@ Schmitz, Dom. “Un conflit entre monastères Clunisiennes d’après la corresp
 
 Zerbi, P. “Remarques sur l’epistola 98 de Pierre le Vénérable,” Pierre Abelard- Pierre le Vénérable. Les courants littéraires et artistiques en occident au milieu du XIIe siècle. Colloques Internationaux du Centre National de la Recherche Scientifique, 546. Paris: 1975, 215-32.
 
-[\[1\]](applewebdata://3A9AEE0B-400E-41FE-B75F-0B4688450904#_ftnref1)The first monastery in the province of Reims to adopt the Clunaic consuetudinesunder Abbots Alvisus \(1111-31\) and Goswing, \(1131-36\). \[Constable, 53\).
+[\[1\]](applewebdata://3A9AEE0B-400E-41FE-B75F-0B4688450904#_ftnref1)The first monastery in the province of Reims to adopt the Clunaic consuetudines under Abbots Alvisus \(1111-31\) and Goswing, \(1131-36\). \[Constable, 53\).
 
 [\[2\]](applewebdata://3A9AEE0B-400E-41FE-B75F-0B4688450904#_ftnref2)Voyages Littéraires de deux religieux bénédictins de la congrégation de Saint Maur, II \(1717-24\): 78-9. Constable has citations \(p. 50\) further about the library at Anchin.
 
