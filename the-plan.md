@@ -4,7 +4,7 @@ The problem is this: Peter the Venerable was one of the most prolific authors of
 
 The difficulty therefore is how to begin this process. Translating Peter's works is a long term project and would benefit from international collaboration. 
 
-This project is at the very preliminary stages – I have thought about the need for greater access to Peter the Venerable and his writings for years, but am now starting to figure out what it would look like in practice. The Gitbook/Github project pages represent my first stab at it – an initial upload of texts, translation and other resources that I have been working on for years and currently exist only my hard drive. Many of these texts have been sloppily translated for research. 
+This project is at the very preliminary stages – I have thought about the need for greater access to Peter the Venerable and his writings for years, but am now starting to figure out what it would look like in practice. The Gitbook/Github project pages represent my first stab at it – an initial upload of texts, translation and other resources that I have been working on for years and currently exist only my hard drive and which I have sloppily translated for research \(not public consumption\). Many of the translations thus are unfinished: the text will break off, Latin placenames are left in the original, names are inconsistently translated etc. Part of the translation project will be figuring out these nitty-gritty details.  
 
 ### Timeline of work
 
