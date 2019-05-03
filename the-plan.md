@@ -9,7 +9,9 @@ This project is at the very preliminary stages – I have thought about the need
 ### Timeline of work
 
 1. The first stage is brainstorming the extent of the project. I've starting working up [a sitemap for the project](https://app.flowmapp.com/projects/61880/sitemap/) - suggestions are welcomed on the intended plan. 
-2. The second stage will be uploading some translations. 
+2. The second stage will be uploading some translations. As we upload content, it will likely bring notice to things we hadn't thought about, which in turn will require further brainstorming around the sitemap/ project documents. 
+3. Once we have a rough sense of what is uploaded here, we will move forward with a pilot project of one or two texts - figuring out the best way to integrate manuscript images, transcriptions, editions, references etc. The goal will be to move beyond simple text files \(Gitbook uses .json files/ Github uses Markdown files\) to incorporate TEI editing.
+4. This subsequent development might require that the project move away from the Gitbook/Github environment, for something better suited to handle/ present these texts. 
 
 
 
