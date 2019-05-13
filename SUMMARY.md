@@ -3,9 +3,16 @@
 * [The Petrus Project](README.md)
 * [The Plan](the-plan.md)
 * [The Team](the-team.md)
-* [The Authors](the-authors.md)
+* [The Authors](the-authors/README.md)
+  * [Peter the Venerable](the-authors/peter-the-venerable.md)
+  * [Peter of Poitiers](the-authors/peter-of-poitiers.md)
+  * [Radulf of Sully](the-authors/radulf-of-sully.md)
+  * [Richard of Poitiers](the-authors/richard-of-poitiers.md)
+  * [Bernard of Cluny](the-authors/bernard-of-cluny.md)
+  * [Radulf Tortarius](the-authors/radulf-tortarius.md)
 * [The Texts](the-texts.md)
-* [The Sources](the-sources.md)
+* [Resources](the-sources.md)
+* [How to cite this resource](how-to-cite-this-resource.md)
 
 ## Miracle Stories
 
@@ -18,6 +25,12 @@
   * [1.5 . About another brother false in his confession](miracle-stories/intro.demiraculis/1.5-.-about-another-brother-false-in-his-confession.md)
   * [1.6 About one who was freed from the devil by a true confession](miracle-stories/intro.demiraculis/1.6-about-one-who-was-freed-from-the-devil-by-a-true-confession.md)
   * [1.7 How demons were put to flight by holy water](miracle-stories/intro.demiraculis/1.7-how-demons-were-put-to-flight-by-holy-water.md)
+  * [1.8 About Gerard, a monk of pure and simple life](miracle-stories/intro.demiraculis/1.8-about-gerard-a-monk-of-pure-and-simple-life.md)
+  * [1.9 About notable things which happened in and around Cluny](miracle-stories/intro.demiraculis/1.9-about-notable-things-which-happened-in-and-around-cluny.md)
+  * [1.10 About the miraculous apparition of Stephen, called, “the White”](miracle-stories/intro.demiraculis/1.10-about-the-miraculous-apparition-of-stephen-called-the-white.md)
+  * [1.11 About a similar apparition of Bernard Grossus](miracle-stories/intro.demiraculis/1.11-about-a-similar-apparition-of-bernard-grossus.md)
+  * [1.12 With so much envy the devil has always raged against Cluny](miracle-stories/intro.demiraculis/1.12-with-so-much-envy-the-devil-has-always-raged-against-cluny.md)
+  * [1.13](miracle-stories/intro.demiraculis/1.13.md)
 * [Life of Raingarde](miracle-stories/en.raingarde.md)
 * [Life of Peter the Venerable](miracle-stories/life-of-peter-the-venerable.md)
 
@@ -25,23 +38,71 @@
 
 * [The Letter Collection](letters/the-letter-collection/README.md)
   * [Prefatory Epistle](letters/the-letter-collection/en.epistolae.000.md)
+  * [Prefatory Epistle \(more complete?\)](letters/the-letter-collection/prefatory-epistle-more-complete.md)
   * [1. To Pope Innocent \(1137\)](letters/the-letter-collection/en.epistolae.001.md)
+  * [2. To Matthew of Albano \(1134/35\)](letters/the-letter-collection/2.-to-matthew-of-albano-1134-35.md)
+  * [3. to the Lord Chancellor Haimeric \(1123/41, likely 1137\)](letters/the-letter-collection/3.-to-the-lord-chancellor-haimeric-1123-41-likely-1137.md)
+  * [4. to Hugh, Archbishop of Rouen \(1130/8\)](letters/the-letter-collection/4.-to-hugh-archbishop-of-rouen-1130-8.md)
+  * [5. To Hato, Bishop of Troyes  \(1122/46\)](letters/the-letter-collection/5.-to-hato-bishop-of-troyes-1122-46.md)
+  * [6. To the same \(Hato\) \(1122/46\)](letters/the-letter-collection/6.-to-the-same-hato-1122-46.md)
+  * [7. To the same \(Hato\) \(1134\)](letters/the-letter-collection/7.-to-the-same-hato-1134.md)
+  * [8. To Stephen, a priest skilled in the law \(1125/6\)](letters/the-letter-collection/8.-to-stephen-a-priest-skilled-in-the-law-1125-6.md)
+  * [9. To Peter, the schoolmaster](letters/the-letter-collection/9.-to-peter-the-schoolmaster.md)
+  * [10. To the same \(Peter\)](letters/the-letter-collection/10.-to-the-same-peter.md)
+  * [26. To his son beloved in Christ, Peter of Poitiers](letters/the-letter-collection/untitled.md)
+  * [58. To this son, beloved in Christ, Peter of Poitiers](letters/the-letter-collection/58.-to-this-son-beloved-in-christ-peter-of-poitiers.md)
+  * [123. A letter of Peter of Poitiers to Peter his abbot, then dwelling in the forest of Cluny](letters/the-letter-collection/123.-a-letter-of-peter-of-poitiers-to-peter-his-abbot-then-dwelling-in-the-forest-of-cluny.md)
+  * [124. The return letter of the Lord Peter the Abbot to the same](letters/the-letter-collection/124.-the-return-letter-of-the-lord-peter-the-abbot-to-the-same.md)
+  * [125. The Return letters from some companions to Peter of Poitiers from the woods of Cluny.](letters/the-letter-collection/125.-the-return-letters-from-some-companions-to-peter-of-poitiers-from-the-woods-of-cluny..md)
+  * [126. The Letter of Robert, a learned man and Master of Physic](letters/the-letter-collection/126.-the-letter-of-robert-a-learned-man-and-master-of-physic.md)
+  * [127. The Letter of Gislebert, a noble and literate youth](letters/the-letter-collection/127.-the-letter-of-gislebert-a-noble-and-literate-youth.md)
+  * [128. The return letter of Peter of Poitiers to the Lord Abbot and his colleagues](letters/the-letter-collection/128.-the-return-letter-of-peter-of-poitiers-to-the-lord-abbot-and-his-colleagues.md)
+  * [129. The letter of Peter, the lord Abbot, to this Peter.](letters/the-letter-collection/129.-the-letter-of-peter-the-lord-abbot-to-this-peter..md)
 * [Additional Letters](letters/additional-letters.md)
-
-## Sources
-
-* [Manuscript and Early Printed Sources](sources/manuscript-and-early-printed-sources/README.md)
-  * [Paris, BNF, ms. latin 17716](sources/manuscript-and-early-printed-sources/paris-bnf-ms.-latin-17716.md)
-* [Digital Resources](sources/digital-resources.md)
 
 ## Legal Texts
 
-* [Statutes](legal-texts/statutes.md)
+* [Statutes](legal-texts/statutes/README.md)
+  * [Bibliography](legal-texts/statutes/bibliography.md)
+  * [Summary](legal-texts/statutes/summary.md)
+  * [The Statutes of Peter the Venerable, Abbot of Cluny](legal-texts/statutes/the-statutes.md)
 * [Organization of Household Business](legal-texts/organization-of-household-business.md)
-* [Papal Bulls](legal-texts/papal-bulls.md)
+* [Papal Bulls](legal-texts/papal-bulls/README.md)
+  * [Innocent II's approval of Peter the Venerable's ability to set statutes](legal-texts/papal-bulls/innocent-iis-approval-of-peter-the-venerables-ability-to-set-statutes.md)
 * [Charters](legal-texts/charters.md)
 
 ## Poems & Liturgy
 
 * [In defence of Peter of Poitiers](poems-and-liturgy/en.defensio.md)
+* [A liturgical prose, in honour of the Mother of the Lord](poems-and-liturgy/a-liturgical-prose-in-honour-of-the-mother-of-the-lord.md)
+* [Another liturgical prose in honour of the Mother of Our Lord](poems-and-liturgy/another-liturgical-prose-in-honour-of-the-mother-of-our-lord.md)
+* [Hymn, in honour of Holy Mary Magdalene](poems-and-liturgy/hymn-in-honour-of-holy-mary-magdalene.md)
+* [Hymn about the Holy Father Benedict](poems-and-liturgy/hymn-about-the-holy-father-benedict.md)
+* [Another Hymn about the translation and coming of this Father Benedict](poems-and-liturgy/another-hymn-about-the-translation-and-coming-of-this-father-benedict.md)
+* [A rhythmic verse on Saint Hugh, abbot of Cluny](poems-and-liturgy/a-rhythmic-verse-on-saint-hugh-abbot-of-cluny.md)
+* [A verse in honour of Count Eustache](poems-and-liturgy/a-verse-in-honour-of-count-eustache.md)
+* [A verse in epitaph of Prior Bernard](poems-and-liturgy/a-verse-in-epitaph-of-prior-bernard.md)
+* [Verse in epitaph of Peter Abelard](poems-and-liturgy/verse-in-epitaph-of-peter-abelard.md)
+* [Verse in epitaph of Rainald, Archbishop of Laon](poems-and-liturgy/verse-in-epitaph-of-rainald-archbishop-of-laon.md)
+* [A rhythmic verse, on the resurrection of our Lord](poems-and-liturgy/a-rhythmic-verse-on-the-resurrection-of-our-lord.md)
+* [Rhythmic verse in praise of the Saviour.](poems-and-liturgy/rhythmic-verse-in-praise-of-the-saviour..md)
+
+## Peter of Poitiers
+
+* [Letter to abbot Peter \(Sicut precipere\)](peter-of-poitiers/letter-to-abbot-peter-sicut-precipere.md)
+* [Panegyric in praise of Peter the Venerable](peter-of-poitiers/panegyric-in-praise-of-peter-the-venerable.md)
+* [Letter to his critics](peter-of-poitiers/letter-to-his-critics.md)
+* [Against the Barbarian](peter-of-poitiers/against-the-barbarian.md)
+* [Epitaph of Pope Gelasius II](peter-of-poitiers/epitaph-of-pope-gelasius-ii.md)
+* [Epitaph of Bishop Adefonso](peter-of-poitiers/epitaph-of-bishop-adefonso.md)
+* [Preface to Peter the Venerable's work against the Saracens](peter-of-poitiers/preface-to-peter-the-venerables-work-against-the-saracens.md)
+
+## Resources
+
+* [A\(n\) Historiographical Note on Researching Twelfth-Century Cluny](resources/a-historiographical-note-on-reconstructing-the-twelfth-century-ecclesia-cluniacensis.md)
+* [Manuscript and Early Printed Sources](resources/manuscript-and-early-printed-sources/README.md)
+  * [Paris, BNF, ms. latin 17716](resources/manuscript-and-early-printed-sources/paris-bnf-ms.-latin-17716.md)
+* [Digital Resources](resources/digital-resources.md)
+* [Biographies](resources/biographies/README.md)
+  * [Denise Bouthillier](resources/biographies/denise-bouthillier.md)
 

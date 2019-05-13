@@ -6,6 +6,14 @@ description: 'Translation status: rough and incomplete'
 
 ## Introduction
 
+This letter has received little attention from scholars – surprising given its unique perspective on Cluniac female monasticism, the relationship of Peter the Venerable and his mother, as well as the experience of religion within the Auvergnese aristocracy. 
+
+### Summary
+
+The letter opens as a letter of consolation to his brothers and speaks at length of Peter's own mourning upon hearing about the death of his mother Raingarde. It describes the commemoration of Raingarde at Marcigny – the monastic house where she had been a nun and _senior_ for many years before her death. The letter then offers a more traditionally hagiographic narrative of Raingarde's early life, secret conversion while a wife, and eventual entry to Marcigny. It highlights the  
+
+### Editions and Translations
+
 Letters of Peter the Venerable \(ep. 53, Constable, LPV I, p.153-73\)[\[1\]](applewebdata://6711173B-67EB-492D-A327-E63E7B1E3121#_ftn1)
 
 ## Translation
