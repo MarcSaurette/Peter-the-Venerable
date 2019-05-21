@@ -2,6 +2,8 @@
 
 ## Biography
 
+[DLL \# A4986](https://catalog.digitallatin.org/dll-author/a4986)
+
 
 
 ## Bibliography

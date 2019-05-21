@@ -8,7 +8,7 @@ The major authors we'll be treating:
 * [Radulf Tortarius](radulf-tortarius.md)
 * [Richard of Poitiers](richard-of-poitiers.md)
 
-I hope to write up short entries for these authors and if complete enough, we can upload them to wikipedia to ensure wider distribution. 
+I hope to write up short entries for these authors and if complete enough, I intend to use them to supplement existing wikipedia entries to ensure wider distribution. I also want to create relational databases of the authors \(something we can use to track social links or the use/re-use of texts\).
 
-We will likely also attempt to create short biographical records for Peter the Venerable's correspondents, as well as people mentioned in the texts, or authors of texts \(such as Innocent II, recipient and author of papal bulls to Cluny\). 
+As part of this plan to ease access to understanding Peter the Venerable within his social, political, and literary context, we will likely also attempt to create short biographical records for Peter the Venerable's correspondents, as well as people mentioned in the texts, or authors of texts \(such as Innocent II, recipient and author of papal bulls to Cluny\). 
 
