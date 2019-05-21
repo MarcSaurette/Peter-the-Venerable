@@ -115,8 +115,10 @@
   * [Bibliography](legal-texts/statutes/bibliography.md)
   * [Summary](legal-texts/statutes/summary.md)
   * [The Statutes of Peter the Venerable, Abbot of Cluny](legal-texts/statutes/the-statutes.md)
+  * [Later Statutes](legal-texts/statutes/later-statutes.md)
 * [Organization of Household Business](legal-texts/organization-of-household-business.md)
 * [Papal Bulls](legal-texts/papal-bulls/README.md)
+  * [Calixtus II's Papal Assent to the election of Peter the Venerable](legal-texts/papal-bulls/calixtus-iis-papal-assent-to-the-election-of-peter-the-venerable.md)
   * [Innocent II's approval of Peter the Venerable's ability to set statutes](legal-texts/papal-bulls/innocent-iis-approval-of-peter-the-venerables-ability-to-set-statutes.md)
 * [Charters](legal-texts/charters.md)
 
@@ -151,6 +153,7 @@
 * [A\(n\) Historiographical Note on Researching Twelfth-Century Cluny](resources/a-historiographical-note-on-reconstructing-the-twelfth-century-ecclesia-cluniacensis.md)
 * [Manuscript and Early Printed Sources](resources/manuscript-and-early-printed-sources/README.md)
   * [Paris, BNF, ms. latin 17716](resources/manuscript-and-early-printed-sources/paris-bnf-ms.-latin-17716.md)
+  * [Pierre de Montmartre, D. Petri venerabilis, ... Opera](resources/manuscript-and-early-printed-sources/pierre-de-montmartre-d.-petri-venerabilis-...-opera.md)
 * [Digital Resources](resources/digital-resources.md)
 * [Biographies](resources/biographies/README.md)
   * [Denise Bouthillier](resources/biographies/denise-bouthillier.md)
