@@ -120,7 +120,9 @@
 * [Papal Bulls](legal-texts/papal-bulls/README.md)
   * [Calixtus II's Papal Assent to the election of Peter the Venerable](legal-texts/papal-bulls/calixtus-iis-papal-assent-to-the-election-of-peter-the-venerable.md)
   * [Innocent II's approval of Peter the Venerable's ability to set statutes](legal-texts/papal-bulls/innocent-iis-approval-of-peter-the-venerables-ability-to-set-statutes.md)
-* [Charters](legal-texts/charters.md)
+  * [Various partially translated charters](legal-texts/papal-bulls/various-partially-translated-charters.md)
+* [Charters](legal-texts/charters/README.md)
+  * [Latin charters \(1122-56\) from Bibliotheca Cluniacensis](legal-texts/charters/latin-charters-1122-56-from-bibliotheca-cluniacensis.md)
 
 ## Poems & Liturgy
 
