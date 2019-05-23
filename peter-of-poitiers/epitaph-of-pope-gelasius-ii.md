@@ -20,7 +20,7 @@ Gaul received the father like he was shipwrecked.
 
 If it had been permitted to him \(certainly I believe\) under him, 
 
-The virtue, and piety, and honesty would have increased;
+Virtue, piety, and honesty would have increased;
 
 And the peace of the Church blossom over the whole world. 
 

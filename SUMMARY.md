@@ -140,6 +140,10 @@
 * [A rhythmic verse, on the resurrection of our Lord](poems-and-liturgy/a-rhythmic-verse-on-the-resurrection-of-our-lord.md)
 * [Rhythmic verse in praise of the Saviour.](poems-and-liturgy/rhythmic-verse-in-praise-of-the-saviour..md)
 
+## Polemic
+
+* [Bibliography](polemic/bibliography.md)
+
 ## Peter of Poitiers
 
 * [Letter to abbot Peter \(Sicut precipere\)](peter-of-poitiers/letter-to-abbot-peter-sicut-precipere.md)
@@ -150,6 +154,12 @@
 * [Epitaph of Bishop Adefonso](peter-of-poitiers/epitaph-of-bishop-adefonso.md)
 * [Preface to Peter the Venerable's work against the Saracens](peter-of-poitiers/preface-to-peter-the-venerables-work-against-the-saracens.md)
 
+## Richard of Poitiers
+
+* [Chronica](richard-of-poitiers/chronica.md)
+* [Chronica - Dedicatory Epistle](richard-of-poitiers/chronica-dedicatory-epistle.md)
+* [BNF, n.a.l. 670 - Transcription \(in progress\)](richard-of-poitiers/bnf-n.a.l.-670-transcription-in-progress.md)
+
 ## Resources
 
 * [A\(n\) Historiographical Note on Researching Twelfth-Century Cluny](resources/a-historiographical-note-on-reconstructing-the-twelfth-century-ecclesia-cluniacensis.md)
@@ -158,5 +168,6 @@
   * [Pierre de Montmartre, D. Petri venerabilis, ... Opera](resources/manuscript-and-early-printed-sources/pierre-de-montmartre-d.-petri-venerabilis-...-opera.md)
 * [Digital Resources](resources/digital-resources.md)
 * [Biographies](resources/biographies/README.md)
+  * [Giles Constable](resources/biographies/giles-constable.md)
   * [Denise Bouthillier](resources/biographies/denise-bouthillier.md)
 

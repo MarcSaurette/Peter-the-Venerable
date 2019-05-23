@@ -16,13 +16,17 @@ Using Constable's _sigla_:
 
 C **Lost**. The largest collection of letters used by Peter de Montmartre for the 1522 edition. Constable suggests that many manuscripts were destroyed after its preparation into printed form, a relatively common practice of the 15thand 16thcenturies. Constable posits it derives from Cluny. It must have contained 27 more letters than A as well as the Contra Sarracenos which PM did not publish, since he believed it to be an incomplete version. This may be the version described in the _Chronicon Cluniacense_. In 1614, Marrier and Duchesne used no manuscripts, and no copy is mentioned among the works of Dom Anselme le Michel in 1645.
 
-S \(Sylviniaci\) **ms. le Puy, Cathédrale, unnumbered.** \(s. XV, Souvigny\). 161 letters. Title page, index and letter collection. Ordered by Odo de la Perrière \[Oddonus de Perreria\], while Prior of Souvigny \(1417-24\) after which he became abbot of Cluny. There is no reference to this manuscript in a 15th cent. library catalogue at Le Puy and no indication of how it got there from Souvigny.[\[3\]](applewebdata://3A9AEE0B-400E-41FE-B75F-0B4688450904#_ftn3) It is textually close to C, order with exceptions, follow A and C.
+S \(Sylviniaci\) **ms. le Puy, Cathédrale, unnumbered.** \(s. XV, Souvigny\). 161 letters. Title page, index and letter collection. Ordered by Odo de la Perrière \[Oddonus de Perreria\], while Prior of Souvigny \(1417-24\) after which he became abbot of Cluny. There is no reference to this manuscript in a 15th cent. library catalogue at Le Puy and no indication of how it got there from Souvigny.[\[3\]](applewebdata://3A9AEE0B-400E-41FE-B75F-0B4688450904#_ftn3) It is textually close to C-order with exceptions, follows A and C.
 
 **Cl** \(Clairvallensis\). **Troyes. Bibliothèque municipale, 2261**. \(s. XV, Clairvaux\). 20 letters: letters from Peter to Bernard and Bernard to Peter. Follow same order as C and S. Does not include letter 28, or 65…
 
 **B** \(Blesensis\) **Paris,** **BNF lat. 2582**. \(XV, royal library at Blois\). 85 letters \(excluding 20 and 28 = first 87 letters of PV collection\). Same family as A, carelessly copied.
 
-**Sg** \(Sancti Germanis\) **Paris BNF lat. 13876**. \(s. XIII, St. Germain-des-Près\). \[SGdP, olim 363, n. 1300\] Contains the letters from PV to Bernard. 1-34r, Letter 28; 34r-47v, 111 \(breaks off\) 48r-50r, 149; 50r-53r, 150. Also contains letters of Bernard, a copy of the Statuta, Franciscan Statuta, and later sermon.
+* BNF [Description and fiches](https://archivesetmanuscrits.bnf.fr/ark:/12148/cc60379w)
+
+**Sg** \(Sancti Germanis\) [**Paris BNF lat. 13876**](https://gallica.bnf.fr/ark:/12148/btv1b100353314/f2.image). \(s. XIII, St. Germain-des-Près\). \[SGdP, olim 363, n. 1300\] Contains the letters from PV to Bernard. 1-34r, Letter 28; 34r-47v, 111 \(breaks off\) 48r-50r, 149; 50r-53r, 150. Also contains letters of Bernard, a copy of the Statuta, Franciscan Statuta, and later sermon.
+
+* [BNF Description](https://archivesetmanuscrits.bnf.fr/ark:/12148/cc74767j) and fiches
 
 Cf. Constable's _Letters_, II, p. 63-69 for info. about manuscripts containing individual letters.
 
