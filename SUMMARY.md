@@ -166,6 +166,7 @@
 * [Manuscript and Early Printed Sources](resources/manuscript-and-early-printed-sources/README.md)
   * [Paris, BNF, ms. latin 17716](resources/manuscript-and-early-printed-sources/paris-bnf-ms.-latin-17716.md)
   * [Pierre de Montmartre, D. Petri venerabilis, ... Opera](resources/manuscript-and-early-printed-sources/pierre-de-montmartre-d.-petri-venerabilis-...-opera.md)
+  * [Patrologia Latina](resources/manuscript-and-early-printed-sources/patrologia-latina.md)
 * [Digital Resources](resources/digital-resources.md)
 * [Biographies](resources/biographies/README.md)
   * [Giles Constable](resources/biographies/giles-constable.md)
