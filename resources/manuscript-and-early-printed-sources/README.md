@@ -2,6 +2,10 @@
 
 ### Manuscript Sources
 
+I am putting together a [Checklist for manuscripts](https://docs.google.com/document/d/1ipWhhxH3QvGSqtqvsE4YsgGTnyPEP7eUVw7dmnMBcf4/edit?usp=sharing), to describe the [structured listing](https://docs.google.com/spreadsheets/d/11YG2dI2BovBAxCXxuscD98d9TsikzAKdPKGAKnxB9ZE/edit?usp=sharing) of Peter the Venerable \(et altera\)'s works. 
+
+
+
 Paris, BNF, ms. latin 17716 \([ms images](https://gallica.bnf.fr/ark:/12148/btv1b84274413/f9.image.r=ms)/ info page\)
 
 ### Printed Sources
