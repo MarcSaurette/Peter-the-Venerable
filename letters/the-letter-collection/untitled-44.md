@@ -1,0 +1,4 @@
+# 159. To the brothers at \[St. Martial of\] Limoges  \(1142?\)
+
+Be ashamed to appear lesser in monastic observance to those which are of the new Orders, lest contrary to the words of the lord that the disciple be not above the master, lest you remain thirsty at your well on account of other sipping, and you must fast while others are filled at your table. For you know that all the new men of the world appear to have something our religious ideal, it takes a beginning from you, its takes the matter and form from you. Hurry, therefore, in the path of the commandments of the Lord with the same care as them, so that none of you arrive in advance, that you do not desire the prize of victory… Be especially attentive to concord and obedience, in order that the men of the world, seeing you tiring in the practice of these virtues and all the others, admire your good works and glorify God who is in Heaven.
+

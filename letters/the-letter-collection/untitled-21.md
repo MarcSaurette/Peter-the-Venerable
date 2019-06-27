@@ -1,0 +1,4 @@
+# 106. to Geoffrey, the Archbishop of Bordeaux \(1143\)
+
+Among the various concerns of my heart, a thought about friendship propelled itself to the fore a little while ago and a worried thought asked whether I can value one friend more or less than another. And when my thinking had investigated every hidden place under any ominous cloud –scrutinizing the vast warren of my soul–, it found in friendship something second to none, something more precious than almost everything, especially with one man, the very person of my archbishop of Bourdeaux, whom neither pontifical dignity nor temporal sublimity cleaved to me in spiritual and true friendship, but whose soul conjoined \[with mine\] indivisibly, spurning the terrestrial, cleaving to the celestial; indeed the elegant manners, the singular prudence, the constant friendship and Christ himself showing their presence in every seed of our mutual love.
+

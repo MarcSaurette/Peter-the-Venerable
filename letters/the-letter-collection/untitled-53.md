@@ -1,0 +1,6 @@
+# 139. To Stephan, formerly Archbishop of Vienne \(1148\)
+
+To the Reverend and most beloved friend, the lord Stephen, the brother Peter, the humble abbot of the Cluniacs, sends best wishes and sincere affection in the lord of love.
+
+About these matters: the daily, or rather, continual importunity of Cluniac business \(which forces me sometimes to forget even my very self\) cloisters the memory of your business from me, and granted that I did not comfort a friend in his distress, I certainly did not abscond, but I did delay. Eventually returning to my heart, though perhaps too late, I write to a friend, and I ask that he consider me excused for my tardiness for these reasons. For I do not wish to be of the number of friends who love \[diligo\] only so long as they are taken in, who love \[amo\] only so long as they hope. I do not want to be counted among them who are called, “table companions” since according to the words of wisdom of him who said this: He who is a friend loves for all time\[Prov. 17:17\] and as he also says: A friend is not know in good times, nor is an enemy hidden in bad\[Eccli. 12:8\]. I urge, therefore, wish and advise that \(since we regret this occurs with you\) you should come to us and to our Cluniac Church and you may prove whether or not there is truth to what I say, not through messengers, but through your very self.
+

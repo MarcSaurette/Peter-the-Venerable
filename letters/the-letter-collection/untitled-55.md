@@ -1,0 +1,6 @@
+# 137. To Geoffrey, the Bishop of Chartres \(1135/48\)
+
+To the honourable and great priest of God and truly beloved to us, lord Godfrey, the celebrated bishop of the holy church of Chartres, brother Peter, humble abbot of the Cluniacs wishes salvation and the affection of complete love in the lord.
+
+Though I bring up a complaint before I gave thanks, I make a complaint as a friend, that so great, so dear, so ancient a friend should not desert, spurn, reject me as an unseen, ignorant and unproven friend. This you seem to have done not for a few days, but for many years now. For since the council of Pisa celebrated in the time of pope Innocent at which you were present and I was not absent, I have neither read your handwriting nor seen your messengers, nor received anything of sort which a friend tends to hope for from the part of a friend. I saw some letters, I heard also come messengers, but they reported only public business, they did not bring any indication of a true affection of a friend. On this account, I say that I saw nothing from your part, I declare that I heard nothing. Surely therefore I complain with merit? Surely I am justly angered? My soul loved you and still it loves you.
+

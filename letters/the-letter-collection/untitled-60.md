@@ -1,0 +1,4 @@
+# 118. to Pope Lucius  \(1144\)
+
+It is like a thing almost hopeless to convert to a better life those monks who are fallen in laxity; one ought to fear that those, unable to be corrected, become corruptors. If then one wished to separate one from anothers, to send them to different places, the religious which I send to you, do not wish to consent to them: in effect, divided into small groups they will be useless and they will lose the benefice which they could maintain if theu stayed all together. If they were destined to be ruled by groups of two or three in different places, I would have chosen others and I would have chosen them differently. But as your desire is to restore a monastery, I designated a group capable of holding one monastery and one alone. Among them, I selected several who are more knowledgeable in wordly affaires, since they look out for the interests of all, and of the thirteen you requested, I added two who were originally from Rome.
+
