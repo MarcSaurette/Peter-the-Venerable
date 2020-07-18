@@ -8,7 +8,7 @@ description: 'First draft complete. No notes, links etc.'
 
 **Manuscripts**:
 
-* None extant. 
+* None extant.  
 * Edmond Martène notes that his edition uses "an ancient codex of the monastery of Souvigny, long hidden".
 
 **Printed Editions**
