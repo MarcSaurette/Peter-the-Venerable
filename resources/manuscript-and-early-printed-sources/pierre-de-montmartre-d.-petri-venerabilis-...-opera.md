@@ -4,6 +4,8 @@
 
 [watermark](https://books.google.ca/books/content?id=H0Kom9s7aSIC&pg=PP5&img=1&zoom=3&hl=en&sig=ACfU3U0gXg3946_ciBFaCQphqApuGuU2mA&ci=283%2C654%2C273%2C221&edge=0)
 
+![Fly leaf \(ii\) from ONB version \(google books\)](../../.gitbook/assets/image%20%281%29.png)
+
 ![Watermark, ONB BE.1.J.20 &#x2720; iv \(verso\)](../../.gitbook/assets/image.png)
 
 ## Facsimiles

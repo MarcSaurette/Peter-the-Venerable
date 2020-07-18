@@ -1,4 +1,4 @@
-# Organization of Household Business
+# Managing Cluniac Accounts
 
 _Dispositio rei familiaris Cluniacensis_
 

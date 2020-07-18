@@ -228,7 +228,7 @@
   * [Summary](legal-texts/statutes/summary.md)
   * [The Statutes of Peter the Venerable, Abbot of Cluny](legal-texts/statutes/the-statutes.md)
   * [Later Statutes](legal-texts/statutes/later-statutes.md)
-* [Organization of Household Business](legal-texts/organization-of-household-business.md)
+* [Managing Cluniac Accounts](legal-texts/organization-of-household-business.md)
 * [Papal Bulls](legal-texts/papal-bulls/README.md)
   * [Calixtus II's Papal Assent to the election of Peter the Venerable](legal-texts/papal-bulls/calixtus-iis-papal-assent-to-the-election-of-peter-the-venerable.md)
   * [Innocent II's approval of Peter the Venerable's ability to set statutes](legal-texts/papal-bulls/innocent-iis-approval-of-peter-the-venerables-ability-to-set-statutes.md)
