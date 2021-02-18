@@ -16,3 +16,7 @@ Neuchâtel, Bibliothèque publique et universitaire de Neuchâtel, [AF A25](http
 
 Petri Venerabilis, abbatis Clvniacensis, [Illvstrivm miracvlorvm libri II](https://lib.ugent.be/europeana/900000201460?pg=PP4). Accesserunt Selectiora quædam ex chronicis fratru\[m\] ordinis Prædicatorum editis à R. P. M. Antonio Senensi. Nonnulla præterea plena admirationis, desumpta ex antiquissimis ecclesiæ scriptoribus \[...\] 1595  \([Google Books](https://books.google.be/books?vid=GENT900000201460&printsec=frontcover&hl=nl#v=onepage&q&f=false)/ [Bavarian State Library](https://reader.digitale-sammlungen.de/en/fs1/object/display/bsb10188810_00003.html)\) 
 
+### Translations
+
+There is not currently an English translation of Peter's _De miraculis_, although I am told one is underway by William North \(Carleton College\). 
+
