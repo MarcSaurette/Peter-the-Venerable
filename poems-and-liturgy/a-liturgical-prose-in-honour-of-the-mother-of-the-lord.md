@@ -10,7 +10,7 @@ The Author of All is come, who takes pity on mortal creatures
 
 And now He has proven his pledge of freedom from the captivity of the enemy,
 
-The Heavens bathed the earth with showers, the earth produced the Savious
+The Heavens bathed the earth with showers, the earth produced the Saviour
 
 A choir of Angels sang when their King was made infant
 
