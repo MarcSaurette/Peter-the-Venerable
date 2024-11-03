@@ -1,18 +1,18 @@
-# Latin charters \(1122-56\) from Bibliotheca Cluniacensis
+# Latin charters (1122-56) from Bibliotheca Cluniacensis
 
 From Martin Marrier and André Duchesne, _Bibliotheca Cluniacensis_ {col. 1387}
 
-## DIPLOMATA ET CHARTÆ PONTIF. IMP. Regum, Archiepiscop. Episcop. Ducum & aliorum, De quibusdam Abbatiis, Prioratibus & Ecclesiis Cluniacensi Cœnobio concessis aut confirmatis, tempore S. Petri dicti Venerabilis, Abbatis Clun. IX. 
+## DIPLOMATA ET CHARTÆ PONTIF. IMP. Regum, Archiepiscop. Episcop. Ducum & aliorum, De quibusdam Abbatiis, Prioratibus & Ecclesiis Cluniacensi Cœnobio concessis aut confirmatis, tempore S. Petri dicti Venerabilis, Abbatis Clun. IX.&#x20;
 
-### \[no. 401\] Charta D. Adalberonis Leodiensis Episcopi de Bertrees. 
+### \[no. 401] Charta D. Adalberonis Leodiensis Episcopi de Bertrees.&#x20;
 
 **An. 1124. Charta cccci.**
 
-In nomine sanctæ & indiuiduæ Trinitatis, Ego Adalberogratia Dei Leodiensis Episcopus, notum facio præsentibus & futuris fidelibus nostris, quod Walterus de Trudignei liber homo tradidit S. Petro, & fratribus Cluniacensis Monasterij, Ecclesiam de Bertrees eum omnibus vsibus, decimis, & cæteris appendiciis suis, in Hanua, & in Puceis, & in Trudeneis, & in Eurenais, pro salute animæ suæ, & animarum patris & matris suæ, ea idem conditione, vt fratres, quos Abbas Cluniacensis ibi Deo seruituros transmiserit, ipsam, & quicquid ad eam pertinet, ita libere teneant, sicut tenebat ipse Walterus, & per singulos annos tantummodo vnum aureum denarium Leodiensis Monetæ in Pascha ipsi fratres persoluant ad Altare S. Petri Ecclesiæ Cluniacensis. Homines vero, qui de terra ipsius Ecclesiæ beneficiati sunt, & fidelitatem inde fecerūt Waltero, ipsam terram de manu Prioris Ecclesiæ requirāt, & fidelitatē & seruitiū idem Priori ipsius Ecclesiæ faciāt. Districtio quoq. villæ ad Ecclesiā pertinebit, itaut Godescalcus frater ipsius Walteri, qui Aduocatus est eiusdē allodij, medietatem ipsius districtionis de Ecclesia teneat, & per hoc ipsam Ecclesiam, & quicquid ad ipsam pertinet, {1388} ab omnibus iniustitiis defendat. Restaurationem similiter sancto Petro & ipsis fratribus dedit, itaut medietatem ipsius restaurationis Ecclesia, medietatem ipse Aduocatus teneat. Medietatem etiam Choruedæ, quæ ipsius Walteri erat, eis concessit. Alia enim medietas pertinet ad Ecclesiam & Abbatem S. Laurentij. Molendinum quoque de Bauigneis cum omnibus vsuariis suis, & medietatem siluæ de Trudineis ad integram, sicut in suos vsus, & in dominium tenebat, ipsis fratribus dedit. Aduocatiam dedit Godescalco fratri suo, & posteris eius, ea conditione vt ipsam Aduocatiam teneat ab Ecclesia Cluniacensi, & de manu Prioris, quem Abbas de Cluniaco ibi transmiserit, & vt nullus ibi sit Aduocatus, neque subaduocatus, præter ipsos, & libertatem ipsius allodij inuiolabiliter custodiant, & a malis hominibus defendant. Ita enim liberum erit ipsum allodium, & iustitiā suæ libertatis retinebit ipsa Ecclesia cum omnibus appendiciis suis, vt præter quod constitutum est Aduocato tenere de ipsa Ecclesia, id est, medietatem districtionis villæ, & medietatem restaurationis, nullum ius, nullamque potestatem, aut dominiū, seu violentiam in ipsum allodium, & in homines ad ipsam Ecclesiam pertinētes exerceat. De omni quoque iniustitia quæ fiet in ipso allodio, de qua Prior eiusdem Ecclesiæ placitare debebit cū fratribus, & hominibus suis, nihil ad eum pertinebit: nisi forte ad faciendam vel retinendam iustitiam, quam per se illi diffinire non poterunt, aduocetur; & tunc de ipsa iustitia, quam fecerit, duos denarios {1389}fratres habebunt, ipse tertium habebit denarium. De medietate autem siluę, quam dedit idem Walterus ipsis fratribus, si quis iniustitiam fecerit, pro iustitia exigenda, duos denarios similiter fratres habebunt: Aduocatus semper ipsius siluæ tertium accipiet denarium. Quicumque autem ad Altare Ecclesiæ pertinent, & censum ibi persoluunt, nihil autem ad Aduocatum pertinebunt: nullum ius, nullamque potestatem Aduocatus super eos habebit, nec implicitabit, neque violentiam de ipsis Ecclesiæ faciet, nec ad exigendam de illis iustitiam cum Priore sedebit, tunc, vt dictum est, præfata ab ipso iustitia tertium habebit denarium. Et hoc quoque statutum est, vt Prior ipsius Ecclesiæ cum fratribus suis ad nullum alium pertineat, vel alicui Cellæ appendat, nisi ad Abbatem, & Priorem Cluniacensis Monasterij. Quod si aliter Abbas Cluniacensis facere voluerit, scilicet, vt sub prouidentia vel potestate alicuius Cellæ, vel Prioris alterius hanc transponat Ecclesiam, Episcopus Leodiensis, & Aduocatus prohibeat fieri, & in defensione atque arbitrio sit eorū, hoc priuilegium, & hanc constitutionem retinere & tueri in perpetuum. Bona vero, quæ ad ipsam Ecclesiā sunt collata, vel aliquando a fidelibus erunt confirmata, ad vsus fratrum ibi Deo seruientium proficiant, nec vnquam ad aliorum vsus conferantur, vel in potestatem redigantur. Hanc igitur eleemosynam ipse Walterus S. Petro dedit, & confirmauit, vt fratres ibi Deo seruientes, ipsum publice & priuatim quotidie habeant in orationibus suis, & quotidianam absolutionem faciant ei. Et tam anniuersarium suum, quam patris, & matris suæ anniuersaria in Vigiliis, & Missis, & in cæteris beneficiis suis deuote recolant. Quæ constitutio, siue traditio, vt rata & inconuulsa permaneat, hanc ad posterorum memoriam sine confirmatione præsenti scripto mandauimus, & in generali synodo cum consensu sanctæ Leodiensis Ecclesiæ Episcopali auctoritate firmauimus, & nostro sigillo corroborauimus. Testes, qui idonei sunt adhibiti, & in hac Charta conscripti, Andreas Præpositus & Archidiaconus, Alexander, Henricus Archid. Almannus Archid. Stepo Archid. Arnulfus Canonicus S. Lamberti, Willelmus, Henricus, Stepo Scholasticus. Ex nobilibus atque illustribus viris, Godefridus Comes Namurensis, Gislibertus Comes de Duraschio, Lambertus Comes de Monteacuto, liberi homines. Godescalcus Aduocatus eiusdem allodij, Adelo Namurcensis, & plures alij. 
+In nomine sanctæ & indiuiduæ Trinitatis, Ego Adalberogratia Dei Leodiensis Episcopus, notum facio præsentibus & futuris fidelibus nostris, quod Walterus de Trudignei liber homo tradidit S. Petro, & fratribus Cluniacensis Monasterij, Ecclesiam de Bertrees eum omnibus vsibus, decimis, & cæteris appendiciis suis, in Hanua, & in Puceis, & in Trudeneis, & in Eurenais, pro salute animæ suæ, & animarum patris & matris suæ, ea idem conditione, vt fratres, quos Abbas Cluniacensis ibi Deo seruituros transmiserit, ipsam, & quicquid ad eam pertinet, ita libere teneant, sicut tenebat ipse Walterus, & per singulos annos tantummodo vnum aureum denarium Leodiensis Monetæ in Pascha ipsi fratres persoluant ad Altare S. Petri Ecclesiæ Cluniacensis. Homines vero, qui de terra ipsius Ecclesiæ beneficiati sunt, & fidelitatem inde fecerūt Waltero, ipsam terram de manu Prioris Ecclesiæ requirāt, & fidelitatē & seruitiū idem Priori ipsius Ecclesiæ faciāt. Districtio quoq. villæ ad Ecclesiā pertinebit, itaut Godescalcus frater ipsius Walteri, qui Aduocatus est eiusdē allodij, medietatem ipsius districtionis de Ecclesia teneat, & per hoc ipsam Ecclesiam, & quicquid ad ipsam pertinet, {1388} ab omnibus iniustitiis defendat. Restaurationem similiter sancto Petro & ipsis fratribus dedit, itaut medietatem ipsius restaurationis Ecclesia, medietatem ipse Aduocatus teneat. Medietatem etiam Choruedæ, quæ ipsius Walteri erat, eis concessit. Alia enim medietas pertinet ad Ecclesiam & Abbatem S. Laurentij. Molendinum quoque de Bauigneis cum omnibus vsuariis suis, & medietatem siluæ de Trudineis ad integram, sicut in suos vsus, & in dominium tenebat, ipsis fratribus dedit. Aduocatiam dedit Godescalco fratri suo, & posteris eius, ea conditione vt ipsam Aduocatiam teneat ab Ecclesia Cluniacensi, & de manu Prioris, quem Abbas de Cluniaco ibi transmiserit, & vt nullus ibi sit Aduocatus, neque subaduocatus, præter ipsos, & libertatem ipsius allodij inuiolabiliter custodiant, & a malis hominibus defendant. Ita enim liberum erit ipsum allodium, & iustitiā suæ libertatis retinebit ipsa Ecclesia cum omnibus appendiciis suis, vt præter quod constitutum est Aduocato tenere de ipsa Ecclesia, id est, medietatem districtionis villæ, & medietatem restaurationis, nullum ius, nullamque potestatem, aut dominiū, seu violentiam in ipsum allodium, & in homines ad ipsam Ecclesiam pertinētes exerceat. De omni quoque iniustitia quæ fiet in ipso allodio, de qua Prior eiusdem Ecclesiæ placitare debebit cū fratribus, & hominibus suis, nihil ad eum pertinebit: nisi forte ad faciendam vel retinendam iustitiam, quam per se illi diffinire non poterunt, aduocetur; & tunc de ipsa iustitia, quam fecerit, duos denarios {1389}fratres habebunt, ipse tertium habebit denarium. De medietate autem siluę, quam dedit idem Walterus ipsis fratribus, si quis iniustitiam fecerit, pro iustitia exigenda, duos denarios similiter fratres habebunt: Aduocatus semper ipsius siluæ tertium accipiet denarium. Quicumque autem ad Altare Ecclesiæ pertinent, & censum ibi persoluunt, nihil autem ad Aduocatum pertinebunt: nullum ius, nullamque potestatem Aduocatus super eos habebit, nec implicitabit, neque violentiam de ipsis Ecclesiæ faciet, nec ad exigendam de illis iustitiam cum Priore sedebit, tunc, vt dictum est, præfata ab ipso iustitia tertium habebit denarium. Et hoc quoque statutum est, vt Prior ipsius Ecclesiæ cum fratribus suis ad nullum alium pertineat, vel alicui Cellæ appendat, nisi ad Abbatem, & Priorem Cluniacensis Monasterij. Quod si aliter Abbas Cluniacensis facere voluerit, scilicet, vt sub prouidentia vel potestate alicuius Cellæ, vel Prioris alterius hanc transponat Ecclesiam, Episcopus Leodiensis, & Aduocatus prohibeat fieri, & in defensione atque arbitrio sit eorū, hoc priuilegium, & hanc constitutionem retinere & tueri in perpetuum. Bona vero, quæ ad ipsam Ecclesiā sunt collata, vel aliquando a fidelibus erunt confirmata, ad vsus fratrum ibi Deo seruientium proficiant, nec vnquam ad aliorum vsus conferantur, vel in potestatem redigantur. Hanc igitur eleemosynam ipse Walterus S. Petro dedit, & confirmauit, vt fratres ibi Deo seruientes, ipsum publice & priuatim quotidie habeant in orationibus suis, & quotidianam absolutionem faciant ei. Et tam anniuersarium suum, quam patris, & matris suæ anniuersaria in Vigiliis, & Missis, & in cæteris beneficiis suis deuote recolant. Quæ constitutio, siue traditio, vt rata & inconuulsa permaneat, hanc ad posterorum memoriam sine confirmatione præsenti scripto mandauimus, & in generali synodo cum consensu sanctæ Leodiensis Ecclesiæ Episcopali auctoritate firmauimus, & nostro sigillo corroborauimus. Testes, qui idonei sunt adhibiti, & in hac Charta conscripti, Andreas Præpositus & Archidiaconus, Alexander, Henricus Archid. Almannus Archid. Stepo Archid. Arnulfus Canonicus S. Lamberti, Willelmus, Henricus, Stepo Scholasticus. Ex nobilibus atque illustribus viris, Godefridus Comes Namurensis, Gislibertus Comes de Duraschio, Lambertus Comes de Monteacuto, liberi homines. Godescalcus Aduocatus eiusdem allodij, Adelo Namurcensis, & plures alij.&#x20;
 
 Actum Leodij, anno Incarn. M.C.XXIV. Ind. ii.regnante Hērico IV. anno Imperij eius XXV. sub Adalberone Leodiensi Episcopo.
 
-### \[no. 193\] Charta Rainaldi Remorum Archiepiscopi, de quitatione Altaris de Turre super Materna.
+### \[no. 193] Charta Rainaldi Remorum Archiepiscopi, de quitatione Altaris de Turre super Materna.
 
 An. 1125. Charta cxciii.
 
@@ -33,7 +33,7 @@ Actū Remis anno Incarnati Verbi MCXXV. Indict. iii.regnante Ludouico Rege Franc
 
 Fulcradus Cancellarius scripsit & subscripsit.
 
-### \[no. 200\] De Presbyterio de Turre super Maderna.
+### \[no. 200] De Presbyterio de Turre super Maderna.
 
 An. 1125. Charta cc.
 
@@ -55,7 +55,7 @@ Actum Remis, anno incarnati Verbi M. C. XXV. Indict. iii.regnante Ludouico Rege 
 
 Fulcradus Cancellarius scripsit & subscripsit.
 
-### \[201\] Charta Ludouici Regis, de S. Petro de Pitueris.
+### \[201] Charta Ludouici Regis, de S. Petro de Pitueris.
 
 An. 1130. Charta cci.
 
@@ -70,7 +70,7 @@ Actum est hoc anno incarnati Verbi M. C. XXX. regni vero nostri XXII.
 
 Data per manum Simonis Cancellarij.
 
-### \[198\] Charta Ludouici Regis, de pedagio quod est apud Monsteriolum, & super exactionibus, quas dedit Ecclesiæ Cluniacensi.
+### \[198] Charta Ludouici Regis, de pedagio quod est apud Monsteriolum, & super exactionibus, quas dedit Ecclesiæ Cluniacensi.
 
 An. 1130. Charta cxcviii.
 
@@ -83,7 +83,7 @@ In nomine sanctæ & indiuiduæ Trinitatis, Ego Lvdovicvs Dei gratia Rex Francoru
 
 Dapifero nullo. Actum anno incarnati Verbi M. C. XXX. regni nostri XXII. Data per manum Simonis Cancellarij.
 
-### \[90\] De centum marcis in Anglia.
+### \[90] De centum marcis in Anglia.
 
 An. 1131. Charta xc.
 
@@ -91,7 +91,7 @@ Innocentius Episcopus seruus seruorum Dei, dilecto filio Petro Cluniacensi Abbat
 
 Ego Innocentivs Catholicæ Ecclesiæ Episcopus ff.
 
-\[Rota. Bene valete\]
+\[Rota. Bene valete]
 
 * Ego Guillelmus Prænestinus Episcopus ff.
 * {1394}Ego Ioannes Ostiensis Episcopus ff.
@@ -103,7 +103,7 @@ Ego Innocentivs Catholicæ Ecclesiæ Episcopus ff.
 
 Datum Beluaci per manum Aymerici S. R. E. Diaconi Cardin. & Cancellarij, xiii.Kal. Iunij, Indict. viiii.Incarn. Dominicæ, anno M. C. XXXI. Pontificatus vero domni Innocentij Papæ II. anno ii.
 
-### \[2037\] Charta Ambroniacensis
+### \[2037] Charta Ambroniacensis
 
 An. 1132. Charta ccxxxvii.
 
@@ -116,13 +116,13 @@ Veritas rerum gestarum, si memoriæ causa scriptis solemniter commendata seruetu
 
 Actum est Lugduni, anno Incarnationis Dominicæ M.C.XXXII. Pontificatus vero domni Innocentij Papæ II. anno secundo. {1395}
 
-### \[238\] Charta Ambroniacensis.
+### \[238] Charta Ambroniacensis.
 
 Undated. Charta ccxxxviii.
 
 Ego frater Petrvshumilis Cluniacensis Abbas cunctis istud legentibus notam fieri permutationem volo, quæ facta est inter nos, & domnum Abbatem, & fratres Ambroniacenses. Placuit enim, & statutum est ab vtraque parte, ad vtilitatem, vt credimus, & illorum, & nostram, vt Ambroniacenses deinceps perpetuo iure possideant, quod habere solebamus in Capella de Chalomonte, scilicet tertiam partem, & vineam vnam Amberiaci, & alias duas Saisiriaci, & alias quasdam terræ particulas ibidem constitutas. Ipsi vero nobis eodem modo concedunt quicquid iuris habere solebant, ad Patris scilicet Capellam, & totum ius parrochiale, sepulturas, oblationes, decimas, & vij. sextaria annonæ, quæ solebant accipere in area nostra. Omnia quoque, quæ iustis permutationibus esse noscuntur, mutua vicissitudine nos ipsis, ipsique nobis, ab omni calumnia, vel contradictione salua conseruabunt. Quod vt perpetuo ratum permaneat, sigillo nostro pariter, & domni Abbatis Ambroniacensis confirmari decreuimus, & apud nos, & ipsos scripta conseruari.
 
-### \[78\] Innocentij II. Papæ Diploma, super Obedientia de Limanz.
+### \[78] Innocentij II. Papæ Diploma, super Obedientia de Limanz.
 
 An. 1132. Charta lxxviii.
 
@@ -130,7 +130,7 @@ Innocentius Episcopus seruus seruorum Dei, carissimo in Christo filio PetroCluni
 
 * Ego InnocentivsCatholicæ Ecclesiæ Episcopus ff.
 
-\[Rota. Bene valete\]
+\[Rota. Bene valete]
 
 * Ego Matthæus Albanensis Episcopus ff.
 * Ego Romanus Diac. Cardin. S. Mariæ in porticu Noles ff.
@@ -142,7 +142,7 @@ Innocentius Episcopus seruus seruorum Dei, carissimo in Christo filio PetroCluni
 
 Datū Valentiæ per manum Almerici S. R. E. Diaconi Card. & Cancel. viii.Kal. Martij, Incarn. Dominicæ anno M. C. XXXII. Pontificatus vero domni Innocentij. Papæ II. anno iii.
 
-### \[132\] Confirmatio SS. Facundi & Primitiani in Hispania.
+### \[132] Confirmatio SS. Facundi & Primitiani in Hispania.
 
 An. 1133. Charta cxxxii.
 
@@ -150,7 +150,7 @@ Innocentius Episcopus seruus seruorum Dei dilecto filio PetroCluniacensi Abbati,
 
 * Ego InnocentiusCatholicæ Ecclesiæ Episcopus ff.
 
-\[Rota. Bene valente\]
+\[Rota. Bene valente]
 
 * Ego Guillelmus Prænestinus Episcopus ff.
 * Ego Vrbanus Presbyter Cardin. tit. S. Clementis ff.
@@ -169,7 +169,7 @@ Innomine sanctæ & indiuiduæ Trinitatis. Diligens præcedentium Patrum prouiden
 
 Sunt autem hæc quæ ego & Conuentus concessimus, Ecclesia videlicet libera, eo dumtaxat modo quo monachi nostri tenuerant, & decima ad eandem Ecclesiam pertinens, cum vineis & terra arabili cum vno hospite apud Darentiacum, cæterisque appenditiis quæ ibidem Deo seruientes possederant. Addimus præterea Ecclesiam de sancto Martyrio cum vineis Adam, & Morelli culturam, culturam etiam quam domnus Matthæus Prior comparauit a Warnerio de portu. Actum Parisiis apud sanctum Martinum de Campis. Anno ab Incarnatione Domini 1133. Indictione 14. residente in Apostolica Sede Papa Innocentio, Ludouico Rege Francorum, & domni Petri Cluniacensis Abbatis anno duodecimo.
 
-### \[203\] Charta de Ledecomba in Anglia, & de centum marcis argenti.
+### \[203] Charta de Ledecomba in Anglia, & de centum marcis argenti.
 
 An. 1136.
 
@@ -191,7 +191,7 @@ StephanvsRex Anglorum, Archiepiscopis, Episcopis, Abbatibus, Comitibus, Baronibu
 * S. Roberti de Ver.
 * S. Alberti de Laci.
 
-### \[205\] Confirmatio de Labdecombe.
+### \[205] Confirmatio de Labdecombe.
 
 Undated. Charta ccv.
 
@@ -224,7 +224,7 @@ Innocentius Episcopus seruus seruorum Dei dilecto filio PetroCluniacensi Abbati,
 
 * Ego InnocentivsCatholicæ Ecclesiæ Episcopus ff.
 
-\[Rota bene valete\]
+\[Rota bene valete]
 
 * Ego Conradus Sabinensis Episcopus ff.
 * Ego Albericus Hostiensis Episcopus ff.
@@ -260,7 +260,7 @@ Innocentius Episcopus seruus seruorum Dei, dilecto in Christo filio PetroClun. A
 
 Data Pisis per manum Almerici S.R.E. Diaconi Card. & Cancel. iii.Id. Martij. Indictione xiv.Incarn. Dominicæ anno M. C. XXXVI. Pontificatus domni Innocentij Papæ II. anno vii.
 
-### \[81\] Confirmatio Montis-desiderij cum pertinentiis suis.
+### \[81] Confirmatio Montis-desiderij cum pertinentiis suis.
 
 An. 1136. Charta lxxxi.
 
@@ -268,7 +268,7 @@ Innocentius Episcopus seruus seruorum Dei, dilecto in Christo filio PetroCluniac
 
 Ego InnocentivsCatholicæ Ecclesiæ Episcopus ff.
 
-\[Bene valete\]
+\[Bene valete]
 
 * Ego Guillelmus Prænestinus Episcopus ff.
 * Ego Anselmus Presbyter Card. ff.
@@ -280,7 +280,7 @@ Ego InnocentivsCatholicæ Ecclesiæ Episcopus ff.
 * Ego Vassallus Diaconus Cardin. S. Eustachij ff.
 * Ego Hubaldus Diaconus Card. S. Mariæ in via lata ff.
 
-Datum Pisis per manum Almerici S. R. E. Cardinalis & Cancellarij, iii.Idus Martij, Indict. xiv.Incarnat. Dominicæ anno M. C. XXXVI. Pontificatus Domni Innocentij Papæ II. anno vii.  
+Datum Pisis per manum Almerici S. R. E. Cardinalis & Cancellarij, iii.Idus Martij, Indict. xiv.Incarnat. Dominicæ anno M. C. XXXVI. Pontificatus Domni Innocentij Papæ II. anno vii.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -291,7 +291,7 @@ An. 1138.
 
 Charta ccciii.
 
-In nomine Patris, & Filij, & Spiritus sancti, Amen. GvarinvsDei gratia Ambianensis humilis Episcopus, sanctæ Ecclesiæ filiis præsentibus & futuris, feliciter niti ad brauium supernæ vocationis. Sciatcaritas & dilectio vestra, quoniam Bernardus de Ballolio miles strenuus, consiliis diuinis & hortatibus nostris, & religiosorum virorum sapienter acquiescens, & animabus prædecessorum suorum, & propriæ saluti, & successorum suorum prouide consulens, quædam Altaria ad ipsum, & eius antecessores hereditario iure pertinentia, quæ licet iniuste, vtpote laicus, ad periculum animæ suæ, diu ipse tenuerit, Monasterio Cluniacensi, Dei tactus aspiratione, concessit. Huic autem concessioni fratres eius, & vxor sua Mathildis, & filij eius Ingelrannus, & Wido, Eustachius, & Bernardus, & filia sua Hatuildis interfuerunt, & ob remedium animarum suarum assensum libentissime præbuerunt, eademque Altaria in manibus nostris reddentes, libere & quiete spontanei dimiserunt. Nos autem Cluniacensis Monasterij religionem considerantes, in præsentia Archidiaconorum nostrorum, Radulphi videlicet & Balduini, {1404}& Clericorum Achardi & Valteri Sacerdotum nostrorum, & aliorum multorum, tam Clericorum quam laicorum religiosorum, & multorum hominum suorum, eadem Altaria donauimus: saluis Ecclesiæ Ambianensis, nostrisque, & successorum nostrorum, & ministrorum, sicut ipsa Altaria ab antiquo persoluerant, consuetudinibus, & Episcopali auctoritate in perpetuum confirmamus. Ita scilicet vt Monachi, qui in Ecclesia de domno Petro Deo seruirent, Cluniacensi Capitulo Marcham vnam argenti singulis annis persoluant, & sic ipsorum omnes Altarium redditus in vsus suæ Ecclesiæ, & in expensas suas, libere & quiete possidendo retineant, Ecclesiam scilicet de domno Petro, Altare de Ballolio, Altare de Turs, Altare de Ardicuria, Altare de Ramburellis, Altare de Alenai. Actum hoc anno Dominicæ Incarnationis, M. C. XXXVIII. Indictione ii.feliciter, Amen.  
+In nomine Patris, & Filij, & Spiritus sancti, Amen. GvarinvsDei gratia Ambianensis humilis Episcopus, sanctæ Ecclesiæ filiis præsentibus & futuris, feliciter niti ad brauium supernæ vocationis. Sciatcaritas & dilectio vestra, quoniam Bernardus de Ballolio miles strenuus, consiliis diuinis & hortatibus nostris, & religiosorum virorum sapienter acquiescens, & animabus prædecessorum suorum, & propriæ saluti, & successorum suorum prouide consulens, quædam Altaria ad ipsum, & eius antecessores hereditario iure pertinentia, quæ licet iniuste, vtpote laicus, ad periculum animæ suæ, diu ipse tenuerit, Monasterio Cluniacensi, Dei tactus aspiratione, concessit. Huic autem concessioni fratres eius, & vxor sua Mathildis, & filij eius Ingelrannus, & Wido, Eustachius, & Bernardus, & filia sua Hatuildis interfuerunt, & ob remedium animarum suarum assensum libentissime præbuerunt, eademque Altaria in manibus nostris reddentes, libere & quiete spontanei dimiserunt. Nos autem Cluniacensis Monasterij religionem considerantes, in præsentia Archidiaconorum nostrorum, Radulphi videlicet & Balduini, {1404}& Clericorum Achardi & Valteri Sacerdotum nostrorum, & aliorum multorum, tam Clericorum quam laicorum religiosorum, & multorum hominum suorum, eadem Altaria donauimus: saluis Ecclesiæ Ambianensis, nostrisque, & successorum nostrorum, & ministrorum, sicut ipsa Altaria ab antiquo persoluerant, consuetudinibus, & Episcopali auctoritate in perpetuum confirmamus. Ita scilicet vt Monachi, qui in Ecclesia de domno Petro Deo seruirent, Cluniacensi Capitulo Marcham vnam argenti singulis annis persoluant, & sic ipsorum omnes Altarium redditus in vsus suæ Ecclesiæ, & in expensas suas, libere & quiete possidendo retineant, Ecclesiam scilicet de domno Petro, Altare de Ballolio, Altare de Turs, Altare de Ardicuria, Altare de Ramburellis, Altare de Alenai. Actum hoc anno Dominicæ Incarnationis, M. C. XXXVIII. Indictione ii.feliciter, Amen.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -320,7 +320,7 @@ Ego Lucas Presbyter Card. tit. SS. Ioannis & Pauli ff.
 
 Ego Martinus Presbyter Card. tit. S. Stephani ff.
 
-Datum Laterani per manum Aimerici S. Rom. Ecclesiæ Diaconi Cardinalis & Cancellarij IIII. Cal. Maij, Indict. II. Dominicæ Incarn. anno MCXXXVIII. Pontificatus domni Innocentij Papæ II. anno X.  
+Datum Laterani per manum Aimerici S. Rom. Ecclesiæ Diaconi Cardinalis & Cancellarij IIII. Cal. Maij, Indict. II. Dominicæ Incarn. anno MCXXXVIII. Pontificatus domni Innocentij Papæ II. anno X.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -331,7 +331,7 @@ An. 1140.
 
 Chart. cxxv.
 
-Innocentius Episcopus seruus seruorum Dei, dilectis filiis Abbati & Conuentui Clun. salutem & Apostolicam benedictionem. Venientibus ad Apostolicam Sedem dilectis filiis S. Monacho vestro, ac H. Monasterij S. Benedicti super Padum procuratoribus, idem S. proposuit coram nobis, quod cum Monasterium memoratum a felicis recordationis G. Papa prædecessore nostro, Hvgoniprædecessori tuo, fili Abbas, & successoribus eius fuerit dudum commissum, vt in eius gubernatione atque custodia potestatem haberent & studium procurationis impenderent, ac obeunte Abbate ipsius loci, eorum diligentia prouideret, vt in loco regiminis iuxta beati Benedicti regulam persona subrogaretur idonea, & quicquid in Monasterio ad augmentum, & obseruantiam Monasticæ Religionis institui vel emendari etiam oporteret, eorum semper dispositione ac magisterio impleretur, prout in felicis memorię Lucij & Clementis prędecessorum nostrorum authenticis asseruit contineri: Abbas & fratres Monasterij supradicti debitam tibi, fili Abbas, & Ecclesiæ tuæ obedientiam & reuerentiam subtrahentes, super præmissis & aliis iniuriosi tibi graues existunt, & a tua, & Ecclesiæ tuæ subiectione se, ac Monasterium suum subtrahere molientes, iidem quoque fratres Abbatem sibi eligere non formidant, absque tua, & fratrum tuorum conniuentia & consensu. Procurator {1406}vero Monasterij S. Benedicti proposuit ex aduerso, quod cum Monasterium ipsum ad ius & proprietatem Ecclesiæ Romanæ pertineat, & per priuilegia Pontificum Romanorum fuerit ab antiquo libertate donatum, tibi vel Ecclesiæ tuæ subesse, vel respondere in aliquo minime tenebatur, quinimo ad fratres eiusdem loci, tam dispositio quam Abbatis electio pertinebat; adiiciens, quod & si ius aliquod prædictorum priuilegiorum intuitu Clun. Ecclesiæ competierit, illud penitus est absorptum, cum hactenus neglexerit vti eis, & Monasterium supradictum lōgissimo tempore plena fuerit libertate gauisum. Proposuit insuper idem Monasterium super capitulis prænotatis per bonæ memoriæ Eugenij Papę prędecessoris nostri sententiam absolutum. Cum ergo super his, & quibusdam aliis procuratores ipsi nō desinerent altercari, & per venerabiles fratres nostros I. Sabin. & N. Tusculan. Episcopos de mandato nostro fuerit de amicabili compositione tractatum, nobis mediantibus demum inter procuratores ipsos huiusmodi compositio interuenit; vt cum in Monasterio sæpedicto fuerit Abbatis electio celebranda, fratres eiusdem loci absque requisitione vestra personam idoneam regulariter sibi eligant in Abbatem; qui si concorditer electus extiterit, munus benedictionis accipiat, & libere administret, nulla super his a vobis licentia expetita: ita videlicet quod is, qui fuerit in Abbatem electus, intra spatium primi anni vnum vel duos fratres cum suis litteris ad vos dirigat, in quibus tibi, fili Abbas, & successoribus tuis super obseruantia Monastici Ordinis, obedientiam repromittat, & tunc Clun. Abbas vel per se vel per alium ad Monasterium memoratum accedat, ab Abbate ipsius loci corporalem super Ordinis obseruantia obedientiam recepturus: vel transmissas sibi litteras, si maluerit, in testimonium obedientiæ sibi promissæ reseruet. Quod si Abbatis electio fuerit in discordia celebrata, pro dirimendo huiusmodi dissentionis articulo, ad Sedem Apostolicam recurratis. Item Abbas & Monachi supradicti loci de quadriennio in quadriennium aliquem ex confratribus suis ad Capitulum Cluniacense transmittant, qui audiat & recipiat quæ ibidem fuerint super obseruantia Ordinis constituta. Præterea quolibet quadriennio Clun. Abbas duos ex fratribus suis mittat ad visitandum Monasterium sæpedictum, quibus decenter ac benigne receptis, ab eodem Monasterio moderata procuratio tribuatur: & ipsi, Abbatis eiusdem loci consilio requisito, corrigant si quid in ipso Monasterio circa Monachos & conuersos, aliasque personas corrigendum inuenerint, & statuant quod circa eos fuerit statuendum. Si vero aliquid corrigendum in Abbate inuenerint, ad Rom. Pontificem illud referant, & sicut ipse mandauerit, in eius correctione procedant. Cum autem Clun. Abbas ad Monasterium sæpefatum accesserit, Abbas eiusdem loci ei, tanquam priori Abbati cedat in Choro, Capitulo, & in mensa. Abbas vero Clun. in membris corrigens quod fuerit corrigendum, si quid forte in Abbatis persona correctione dignum inuenerit, id ad aures Romani Pontificis proferre procuret, vt iuxta beneplacitum eius in Christo negotia procedant. Præterea Clun. Abbas ad Monasterium iam dictū accedens, viginti quinque equitaturis, & triginta {1407}personis; fratres vero cum illuc causa visitationis accesserint, quatuor equitaturis, & sex personis tantūmodo sint contenti. Vt igitur in perpetuum compositio suprascripta de procuratorū assensu facta inuiolabiliter obseruetur, nos eam auctoritate Apostolica confirmamus. Statuentes, vt nulli omnino hominum liceat hanc paginam nostræ confirmationis infringere, vel ei ausu temerario contraire. Si quis autem hoc attentare præsumpserit, indignationem omnipotentis Dei, & beatorum Petri & Pauli Apostolorum eius se nouerit incursurum. Datum Viterbij IIII. Idus Iulij, Pontificatus nostri anno XII.  
+Innocentius Episcopus seruus seruorum Dei, dilectis filiis Abbati & Conuentui Clun. salutem & Apostolicam benedictionem. Venientibus ad Apostolicam Sedem dilectis filiis S. Monacho vestro, ac H. Monasterij S. Benedicti super Padum procuratoribus, idem S. proposuit coram nobis, quod cum Monasterium memoratum a felicis recordationis G. Papa prædecessore nostro, Hvgoniprædecessori tuo, fili Abbas, & successoribus eius fuerit dudum commissum, vt in eius gubernatione atque custodia potestatem haberent & studium procurationis impenderent, ac obeunte Abbate ipsius loci, eorum diligentia prouideret, vt in loco regiminis iuxta beati Benedicti regulam persona subrogaretur idonea, & quicquid in Monasterio ad augmentum, & obseruantiam Monasticæ Religionis institui vel emendari etiam oporteret, eorum semper dispositione ac magisterio impleretur, prout in felicis memorię Lucij & Clementis prędecessorum nostrorum authenticis asseruit contineri: Abbas & fratres Monasterij supradicti debitam tibi, fili Abbas, & Ecclesiæ tuæ obedientiam & reuerentiam subtrahentes, super præmissis & aliis iniuriosi tibi graues existunt, & a tua, & Ecclesiæ tuæ subiectione se, ac Monasterium suum subtrahere molientes, iidem quoque fratres Abbatem sibi eligere non formidant, absque tua, & fratrum tuorum conniuentia & consensu. Procurator {1406}vero Monasterij S. Benedicti proposuit ex aduerso, quod cum Monasterium ipsum ad ius & proprietatem Ecclesiæ Romanæ pertineat, & per priuilegia Pontificum Romanorum fuerit ab antiquo libertate donatum, tibi vel Ecclesiæ tuæ subesse, vel respondere in aliquo minime tenebatur, quinimo ad fratres eiusdem loci, tam dispositio quam Abbatis electio pertinebat; adiiciens, quod & si ius aliquod prædictorum priuilegiorum intuitu Clun. Ecclesiæ competierit, illud penitus est absorptum, cum hactenus neglexerit vti eis, & Monasterium supradictum lōgissimo tempore plena fuerit libertate gauisum. Proposuit insuper idem Monasterium super capitulis prænotatis per bonæ memoriæ Eugenij Papę prędecessoris nostri sententiam absolutum. Cum ergo super his, & quibusdam aliis procuratores ipsi nō desinerent altercari, & per venerabiles fratres nostros I. Sabin. & N. Tusculan. Episcopos de mandato nostro fuerit de amicabili compositione tractatum, nobis mediantibus demum inter procuratores ipsos huiusmodi compositio interuenit; vt cum in Monasterio sæpedicto fuerit Abbatis electio celebranda, fratres eiusdem loci absque requisitione vestra personam idoneam regulariter sibi eligant in Abbatem; qui si concorditer electus extiterit, munus benedictionis accipiat, & libere administret, nulla super his a vobis licentia expetita: ita videlicet quod is, qui fuerit in Abbatem electus, intra spatium primi anni vnum vel duos fratres cum suis litteris ad vos dirigat, in quibus tibi, fili Abbas, & successoribus tuis super obseruantia Monastici Ordinis, obedientiam repromittat, & tunc Clun. Abbas vel per se vel per alium ad Monasterium memoratum accedat, ab Abbate ipsius loci corporalem super Ordinis obseruantia obedientiam recepturus: vel transmissas sibi litteras, si maluerit, in testimonium obedientiæ sibi promissæ reseruet. Quod si Abbatis electio fuerit in discordia celebrata, pro dirimendo huiusmodi dissentionis articulo, ad Sedem Apostolicam recurratis. Item Abbas & Monachi supradicti loci de quadriennio in quadriennium aliquem ex confratribus suis ad Capitulum Cluniacense transmittant, qui audiat & recipiat quæ ibidem fuerint super obseruantia Ordinis constituta. Præterea quolibet quadriennio Clun. Abbas duos ex fratribus suis mittat ad visitandum Monasterium sæpedictum, quibus decenter ac benigne receptis, ab eodem Monasterio moderata procuratio tribuatur: & ipsi, Abbatis eiusdem loci consilio requisito, corrigant si quid in ipso Monasterio circa Monachos & conuersos, aliasque personas corrigendum inuenerint, & statuant quod circa eos fuerit statuendum. Si vero aliquid corrigendum in Abbate inuenerint, ad Rom. Pontificem illud referant, & sicut ipse mandauerit, in eius correctione procedant. Cum autem Clun. Abbas ad Monasterium sæpefatum accesserit, Abbas eiusdem loci ei, tanquam priori Abbati cedat in Choro, Capitulo, & in mensa. Abbas vero Clun. in membris corrigens quod fuerit corrigendum, si quid forte in Abbatis persona correctione dignum inuenerit, id ad aures Romani Pontificis proferre procuret, vt iuxta beneplacitum eius in Christo negotia procedant. Præterea Clun. Abbas ad Monasterium iam dictū accedens, viginti quinque equitaturis, & triginta {1407}personis; fratres vero cum illuc causa visitationis accesserint, quatuor equitaturis, & sex personis tantūmodo sint contenti. Vt igitur in perpetuum compositio suprascripta de procuratorū assensu facta inuiolabiliter obseruetur, nos eam auctoritate Apostolica confirmamus. Statuentes, vt nulli omnino hominum liceat hanc paginam nostræ confirmationis infringere, vel ei ausu temerario contraire. Si quis autem hoc attentare præsumpserit, indignationem omnipotentis Dei, & beatorum Petri & Pauli Apostolorum eius se nouerit incursurum. Datum Viterbij IIII. Idus Iulij, Pontificatus nostri anno XII.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -352,7 +352,7 @@ S. Fulconis Archidiaconi.
 
 S. Tegeri Canonici.
 
-S. Wirici nepotis Episcopi.  
+S. Wirici nepotis Episcopi.\
 
 
 {1408}S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -363,7 +363,7 @@ Confirmatio S. Remigij de Plaore, de Barbona, de Lintis, de Lintellis, & de S. S
 
 Chart. xciii.
 
-Innocentius Episcopus seruus seruorum Dei, dilectis filiis PetroAbbati, & Monachis Cluniacensibus salutem, & Apostolicam benedictionem.Quæ vobis & fratribus vestris, ab Episcopis, & Ecclesiarum Dei Rectoribus, religionis intuitu rationabiliter data esse cognoscimus, tanquam nostra volumus obseruare, & auctoritate Sedis Apostolicæ, in qua Domino præsidente residemus, vt perpetuis obseruentur temporibus communire. Concessionem igitur Ecclesiarum S. Remigij videlicet de Plaiotro, de Barbona, de Lintis, de Lintellis, & de S. Siluestro, a venerabili fratre nostro Attone Trecensi Episcopo, vestro Monasterio & vobis factam firmamus, & præsentis scripti munimine roboramus. Si quis autem huic nostræ confirmationi sciens temerario ausu contraire tentauerit, indignationem omnipotentis Dei, & beatorum Petri & Pauli Apostolorum eius se nouerit incursurum. Datum Laterani XVII. Kal. Augusti.  
+Innocentius Episcopus seruus seruorum Dei, dilectis filiis PetroAbbati, & Monachis Cluniacensibus salutem, & Apostolicam benedictionem.Quæ vobis & fratribus vestris, ab Episcopis, & Ecclesiarum Dei Rectoribus, religionis intuitu rationabiliter data esse cognoscimus, tanquam nostra volumus obseruare, & auctoritate Sedis Apostolicæ, in qua Domino præsidente residemus, vt perpetuis obseruentur temporibus communire. Concessionem igitur Ecclesiarum S. Remigij videlicet de Plaiotro, de Barbona, de Lintis, de Lintellis, & de S. Siluestro, a venerabili fratre nostro Attone Trecensi Episcopo, vestro Monasterio & vobis factam firmamus, & præsentis scripti munimine roboramus. Si quis autem huic nostræ confirmationi sciens temerario ausu contraire tentauerit, indignationem omnipotentis Dei, & beatorum Petri & Pauli Apostolorum eius se nouerit incursurum. Datum Laterani XVII. Kal. Augusti.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -374,7 +374,7 @@ Confirmatio de Prius, cum suis pertinentiis.
 
 Chart. lxxxvii.
 
-Innocentius Episcopus seruus seruorum Dei, dilectis in Christo filiis PetroAbbati, & Monachis Cluniacensibus in perpetuum. Ex Apostolicæ Sedis administratione, quæ extraordinaria sunt, volumus corrigere, & quæ ordinata ad meliorem statum deducere, & vt in suæ bonitatis firmitate permaneant, vigore Ecclesiastico roborare. Eapropter, dilecti in Domino filij, donationem a Girino, & fratribus, de loco qui dicitur Prins, cum suis pertinentiis, Remis in Palatio venerabilis fratris nostri Rainaldi Archiepiscopi nobis factā, vobis concedimus, donamus, & tradimus, ac per præsentis scripti paginam confirmamus. Nulli ergo omnino hominum fas sit pręfatum locum temere perturbare, aut eius possessiones auferre, vel ablatas retinere, minuere vel aliquibus vexationibus fatigare: sed omnia dominio & possessioni Clun. Monasterij perpetuo integra conseruentur. Si quis autem huic nostræ constitutioni temerario ausu contraire tentauerit, si reatum suum non correxerit, a sacratissimo corpore & sanguine Dei, & Domini nostri Iesu Christi aliena fiat, atque in extremo examine districtæ vltioni subiaceat. Conseruantibus autem sit pax Domini nostri Iesu Christi, quatenus interuenientibus beatorum Apostolorum Petri & Pauli meritis æternæ vitæ præmia cum Sanctis omnibus percipere mereatur. Datum Remis II. Kal. Nouembr.  
+Innocentius Episcopus seruus seruorum Dei, dilectis in Christo filiis PetroAbbati, & Monachis Cluniacensibus in perpetuum. Ex Apostolicæ Sedis administratione, quæ extraordinaria sunt, volumus corrigere, & quæ ordinata ad meliorem statum deducere, & vt in suæ bonitatis firmitate permaneant, vigore Ecclesiastico roborare. Eapropter, dilecti in Domino filij, donationem a Girino, & fratribus, de loco qui dicitur Prins, cum suis pertinentiis, Remis in Palatio venerabilis fratris nostri Rainaldi Archiepiscopi nobis factā, vobis concedimus, donamus, & tradimus, ac per præsentis scripti paginam confirmamus. Nulli ergo omnino hominum fas sit pręfatum locum temere perturbare, aut eius possessiones auferre, vel ablatas retinere, minuere vel aliquibus vexationibus fatigare: sed omnia dominio & possessioni Clun. Monasterij perpetuo integra conseruentur. Si quis autem huic nostræ constitutioni temerario ausu contraire tentauerit, si reatum suum non correxerit, a sacratissimo corpore & sanguine Dei, & Domini nostri Iesu Christi aliena fiat, atque in extremo examine districtæ vltioni subiaceat. Conseruantibus autem sit pax Domini nostri Iesu Christi, quatenus interuenientibus beatorum Apostolorum Petri & Pauli meritis æternæ vitæ præmia cum Sanctis omnibus percipere mereatur. Datum Remis II. Kal. Nouembr.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -389,9 +389,9 @@ Lvcius Episcopus seruus seruorum Dei, dilecto filio PetroCluniacensi Abbati, eiu
 
 Ego LvcivsCatholicæ Ecclesiæ Episcopus ff. cum decem & octo Cardinalibus.
 
-\[Rota bene valete\]
+\[Rota bene valete]
 
-Datum Romæ per manum Baronis S. R. E. Subdiaconi. XIV. Cal. Febroarij, Indict. VIII. Incarn. Dominicæ anno MCXLIIII. Pontificatus vero domni Lucij secundi Papæ anno primo.  
+Datum Romæ per manum Baronis S. R. E. Subdiaconi. XIV. Cal. Febroarij, Indict. VIII. Incarn. Dominicæ anno MCXLIIII. Pontificatus vero domni Lucij secundi Papæ anno primo.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -408,7 +408,7 @@ Hanc igitur donationem seu venditionem, dilecti in Domino filij, vobis vestrisqu
 
 Ego EvgenivsCatholicæ Ecclesiæ Episcopus ff.
 
-\[Rota\]
+\[Rota]
 
 Ego Albericus Ostiensis Episcopus ff.
 
@@ -440,7 +440,7 @@ Ego Guido Diaconus Card. S. Mariæ in Porticu ff.
 
 Ego Iacintus Diaconus Card. S. Mariæ in Cosmidin ff.
 
-Datum Altisiodori per manum Guidonis S. R. E. Diaconi Cardinalis & Cancellarij, VIII. Kal. Sept. Ind. X. Incar. Dominicæ anno MCXLVII. Pontificatus domni Eugenij III. Papæ anno III.  
+Datum Altisiodori per manum Guidonis S. R. E. Diaconi Cardinalis & Cancellarij, VIII. Kal. Sept. Ind. X. Incar. Dominicæ anno MCXLVII. Pontificatus domni Eugenij III. Papæ anno III.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -451,7 +451,7 @@ Charta Willelmi Comitis, de concordia inter ipsum, & domnumPetrvmAbbatem Cluniac
 
 Chart. ccxxix.
 
-Qvæ pro salute geruntur maxime litteris tradere, ne tractu temporis ab hominum cadant memoria, prudentium assueuit discretio. Notum sit itaque, quod ego WillelmvsAruernorum Comes, reformando pacem cum domno PetroClun. Abbate, & eius fratribus pro iniuriis, quas Mauziacensi Monasterio, & Celsiniacensi iniuriose intuli, medietatem omnium letdarum, quæ in villa Reomensi, quoquo tempore acceptæ fuerint, libere prædicto Monasterio Mauziacensi, & eius habitatoribus dono, & in perpetuum possidere concedo. Verumtamen si quis prædictis habitatoribus, pro hac medietate {1412}letdarum controuersiam mouerit; ego idem Willelmus querentibus satisfaciendo Monachos Mauziacenses in pace obtinere faciam. De foro vero cognominato de Charnac, medietatem omnium annonarum, vt salis, Priori Celsiniensi, & eius Monachis; sed & censum annualem, qui ex terra, in qua forum fit, colligi poterit, in terra illa tantum, quæ beatri Petri iuris est, secundum quod vnicuique hominum institutum est, vel fuerit, gratanter reddo, & in perpetuum habere concedo. Si quando, quod absit, ego, vel qui sub potestate mea sit, aliquam iniuriam in supradictis foris, Monachis vel eorum hominibus fecero, vel quis fecerit, si Abbas Mauziacēsis, vel Prior Celsiniacensis, vel aliquis nomine eorum me emendare monuerit, infra quadraginta dies post admonitionē, eis satisfacere propria manu iuro. Prauas insuper consuetudines, quas infra villam de Charnac nomine letdarum per me, vel per meos introduxeram, & cætera mala, quæ hominibus villæ, vel Priori eiusdem loci iniuriose faciebam, dimitto. Similiter de Vareris, & de Brenac, & de aliis terris, quæ ad ius Celsiniensis, vel siluas occupando, vel deuastando, inuasi, eos supradicto Priori, & Ecclesiæ habitatoribus satisfacere cogam. Ad eandem quidem pacem reformandam necessario accessit, vt ego & Abbas Mauziacensis nomine Eustachius, quos meliores eiusdem villæ cognouimus, astringi præcepimus Sacramento, vt consuetudines, quas pacifice pater meus in villa Mauziacensi obtinuerat, concorditer dicerent, quibus essem contentus. Quod & ita factum est. Pro quibus consuetudinibus villam, & villæ habitatores, sed & extraneos euntes & redeuntes, & res eorum in eadem villa depositas fideliter defendere curabo. Forum Mauziacense, & forum Celsiniarum, sicuti forum Riomense, & de Charnac fideliter defendam. Liberos etiam homines, qui ex villa Abbatis ad meas transierunt, libere redire permittam. Terras, quæ ad ius Mauziacense pertinent, quas possidebant, si qui forte reddere noluerint, Abbas quibus voluerit, & quomodo voluerit, ordinet & disponat. Consuetudinarij vero ad propria reuertantur, excepto vno, qui remanebit, prout statutum est. Si quas insuper terras ego, vel mei, ad ius beati Austremonij pertinentes occupauimus, ego dimitto, & meos dimittere faciam. Si quis vero iustitiam pro aliquibus nostris facere noluerit, ad exigendum ius Abbati non ero. Hanc litis transactionem, & pacem feci in Capitulo Cluniacensi ego WillelmvsComes cum PetroAbbate eiusdem Monasterij, & cum Eustachio Abbate Mauziacensi, & cum Petro Priore Celsiniacensi, pręsente Conuentu eiusdem Monasterij, & Ademauro, & Stephano de Castello, & Stephano de Ermonense, & Bertrando Rigaldello, & aliis multis. Hanc etiam Chartam tenorem huius pacis continentem in æternum valituram proprio sigillo muniri præcipio, & vt Episcopus & Capitulum Claromontense, sed & domnus Papa, idem faciant, rogo & exopto.  
+Qvæ pro salute geruntur maxime litteris tradere, ne tractu temporis ab hominum cadant memoria, prudentium assueuit discretio. Notum sit itaque, quod ego WillelmvsAruernorum Comes, reformando pacem cum domno PetroClun. Abbate, & eius fratribus pro iniuriis, quas Mauziacensi Monasterio, & Celsiniacensi iniuriose intuli, medietatem omnium letdarum, quæ in villa Reomensi, quoquo tempore acceptæ fuerint, libere prædicto Monasterio Mauziacensi, & eius habitatoribus dono, & in perpetuum possidere concedo. Verumtamen si quis prædictis habitatoribus, pro hac medietate {1412}letdarum controuersiam mouerit; ego idem Willelmus querentibus satisfaciendo Monachos Mauziacenses in pace obtinere faciam. De foro vero cognominato de Charnac, medietatem omnium annonarum, vt salis, Priori Celsiniensi, & eius Monachis; sed & censum annualem, qui ex terra, in qua forum fit, colligi poterit, in terra illa tantum, quæ beatri Petri iuris est, secundum quod vnicuique hominum institutum est, vel fuerit, gratanter reddo, & in perpetuum habere concedo. Si quando, quod absit, ego, vel qui sub potestate mea sit, aliquam iniuriam in supradictis foris, Monachis vel eorum hominibus fecero, vel quis fecerit, si Abbas Mauziacēsis, vel Prior Celsiniacensis, vel aliquis nomine eorum me emendare monuerit, infra quadraginta dies post admonitionē, eis satisfacere propria manu iuro. Prauas insuper consuetudines, quas infra villam de Charnac nomine letdarum per me, vel per meos introduxeram, & cætera mala, quæ hominibus villæ, vel Priori eiusdem loci iniuriose faciebam, dimitto. Similiter de Vareris, & de Brenac, & de aliis terris, quæ ad ius Celsiniensis, vel siluas occupando, vel deuastando, inuasi, eos supradicto Priori, & Ecclesiæ habitatoribus satisfacere cogam. Ad eandem quidem pacem reformandam necessario accessit, vt ego & Abbas Mauziacensis nomine Eustachius, quos meliores eiusdem villæ cognouimus, astringi præcepimus Sacramento, vt consuetudines, quas pacifice pater meus in villa Mauziacensi obtinuerat, concorditer dicerent, quibus essem contentus. Quod & ita factum est. Pro quibus consuetudinibus villam, & villæ habitatores, sed & extraneos euntes & redeuntes, & res eorum in eadem villa depositas fideliter defendere curabo. Forum Mauziacense, & forum Celsiniarum, sicuti forum Riomense, & de Charnac fideliter defendam. Liberos etiam homines, qui ex villa Abbatis ad meas transierunt, libere redire permittam. Terras, quæ ad ius Mauziacense pertinent, quas possidebant, si qui forte reddere noluerint, Abbas quibus voluerit, & quomodo voluerit, ordinet & disponat. Consuetudinarij vero ad propria reuertantur, excepto vno, qui remanebit, prout statutum est. Si quas insuper terras ego, vel mei, ad ius beati Austremonij pertinentes occupauimus, ego dimitto, & meos dimittere faciam. Si quis vero iustitiam pro aliquibus nostris facere noluerit, ad exigendum ius Abbati non ero. Hanc litis transactionem, & pacem feci in Capitulo Cluniacensi ego WillelmvsComes cum PetroAbbate eiusdem Monasterij, & cum Eustachio Abbate Mauziacensi, & cum Petro Priore Celsiniacensi, pręsente Conuentu eiusdem Monasterij, & Ademauro, & Stephano de Castello, & Stephano de Ermonense, & Bertrando Rigaldello, & aliis multis. Hanc etiam Chartam tenorem huius pacis continentem in æternum valituram proprio sigillo muniri præcipio, & vt Episcopus & Capitulum Claromontense, sed & domnus Papa, idem faciant, rogo & exopto.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -466,7 +466,7 @@ Cvm Scriptura nos omnibus bonum facere moneat, Ecclesiis, & Ecclesiasticis viris
 
 Ego Adefonsus Imperator hanc donationem, quam in manu domni Guidonis Romanæ Ecclesiæ Cardinalis & Legati, Clun. Ecclesiæ de prædicta Ecclesia S. Vincentij facio, dono, auctoritate confirmo, & firmam, & stabilem omni tempore esse concedo.
 
-Signum \[Crux\] imperatoris.
+Signum \[Crux] imperatoris.
 
 Ego Berengaria Imperatrix confirmo.
 
@@ -474,7 +474,7 @@ Ego Sancius Imperatoris maior filius.
 
 Ego Raimundus Toletanus Archiepiscopus.
 
-Ego Petrus Compostellanus Archiepiscopus.  
+Ego Petrus Compostellanus Archiepiscopus.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -485,7 +485,7 @@ Confirmatio S. Vincentij de Salamantica in Hispania.
 
 Chart.  XLviii.
 
-Celestinus Episcopus seruus seruorum Dei, dilectis filiis PetroCluniacensi Abbati, eiusq. fratribus salutem & Apostolicā benedictionem. Cum ex iniuncto nobis a Deo Apostolatus officio, vniuersis Catholicæ Ecclesiæ filiis debitores existamus: vobis tamē, qui sanctæ Romanæ Ecclesiæ specialius inhæretis, propēsiori nos conuenit charitatis studio imminere. Ideoque tanquam specialibus beati Petri filiis paterna sollicitudine prouidere volentes, Ecclesiam S. Vincentij de Salamātica, quam frater noster Berengarius eiusdē ciuitatis Episcopus, assensu Prioris eiusdem loci, & {1414}charissimi filij nostri A. Regis Hispanię Canonice vobis concessit; per præsentis vobis scripti paginam confirmamus. Si quis autem huius nostræ confirmationis paginam sciens contra eam temere venire tentauerit, omnipotentis Dei, & beatorum Petri & Pauli Apostolorum eius indignationem se nouerit incursurum. Datum Laterani VI. Martij.  
+Celestinus Episcopus seruus seruorum Dei, dilectis filiis PetroCluniacensi Abbati, eiusq. fratribus salutem & Apostolicā benedictionem. Cum ex iniuncto nobis a Deo Apostolatus officio, vniuersis Catholicæ Ecclesiæ filiis debitores existamus: vobis tamē, qui sanctæ Romanæ Ecclesiæ specialius inhæretis, propēsiori nos conuenit charitatis studio imminere. Ideoque tanquam specialibus beati Petri filiis paterna sollicitudine prouidere volentes, Ecclesiam S. Vincentij de Salamātica, quam frater noster Berengarius eiusdē ciuitatis Episcopus, assensu Prioris eiusdem loci, & {1414}charissimi filij nostri A. Regis Hispanię Canonice vobis concessit; per præsentis vobis scripti paginam confirmamus. Si quis autem huius nostræ confirmationis paginam sciens contra eam temere venire tentauerit, omnipotentis Dei, & beatorum Petri & Pauli Apostolorum eius indignationem se nouerit incursurum. Datum Laterani VI. Martij.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -526,7 +526,7 @@ Signum primi Domini Frederici Romanorum Regis inuictissimi.
 
 Ego Arnoldus Cancellarius recognoui.
 
-Datum Wormaciæ anno Dominicæ Incarnat. MCLIII. Ind. I. III. Idus Iunij, regnante domno Frederico Romanorum Rege glorioso, anno vero Regni eius II. in Christo feliciter, Amen.  
+Datum Wormaciæ anno Dominicæ Incarnat. MCLIII. Ind. I. III. Idus Iunij, regnante domno Frederico Romanorum Rege glorioso, anno vero Regni eius II. in Christo feliciter, Amen.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -541,7 +541,7 @@ Adrianus Episcopus seruus seruorum Dei, dilecto filio in Christo PetroCluniacens
 
 {1417}Ego AdrianvsCatholicæ Ecclesiæ Episcopus ff.
 
-\[Rota. Bene valete\]
+\[Rota. Bene valete]
 
 Ego Ymarus Tusculanus Episcopus ff.
 
@@ -585,7 +585,7 @@ Ego Odo Diaconus Card. S. Nicolai in carcere Tulliano ff.
 
 Datum Romæ apud S. Petrum per manum Rolandi S.R.E. Presbyteri Car. & Cancellarij, Non. Maij Ind III. Incarn. Dominicæ anno MCLV. Pontificatus vero domni Adriani Papæ IV. anno primo.
 
-Confirmauerunt & hanc Abbatiam Clun. Cœnobio Vrbanus III. Papa anno Incar. 1185. Pontificatus suii.Chartalxxix.Clemens III. anno1187. Pontif. suii.Chartaxviii.& Celestinus III. anno1191. Pontif. suii.Chartalv.  
+Confirmauerunt & hanc Abbatiam Clun. Cœnobio Vrbanus III. Papa anno Incar. 1185. Pontificatus suii.Chartalxxix.Clemens III. anno1187. Pontif. suii.Chartaxviii.& Celestinus III. anno1191. Pontif. suii.Chartalv.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -596,7 +596,7 @@ Charta Petri Abbatis Cluniacensis, super Ecclesia de Morsalinis.
 
 ??
 
-Venerabili Domino, & charissimo Richardo Constātiensi Episcopo frater Petrus humilis Cluniacensis Abbas salutē & orationes. Concordiam, quæ inter Abbatiam & Monachos Montisburgi, & filios nostros W. Priorem, & Monachos S. Cosmę de Ecclesia Morsalinarum facta est, fraternitatem nostram noueritis confirmasse, videlicet vt Monachi Montisburgi duas partes decimę frugum de omni terra quam habent Monachi S. Cosmę in Morsalinis, habeant & teneant, & in recognitionem x.solidos Andegauenses vel Rothomagēses Priori & Monachis S. Cosmæ annuatim reddant. Ipsa vero Ecclesia, & impositio Sacerdotis, {1418}& ea quæ ad altare & cimiterium pertinent, Priori & Monachis S. Cosmæ libere & quiete remanebunt. Vt autem hæc conuentio inter ipsos rata & inconcussa maneat in æternum, sublimitatem vestram deprecamur, vt Chartam vestram eis inde faciatis, & eorum concordiam authoritate vestra confirmetis. Valeat paternitas vestra.  
+Venerabili Domino, & charissimo Richardo Constātiensi Episcopo frater Petrus humilis Cluniacensis Abbas salutē & orationes. Concordiam, quæ inter Abbatiam & Monachos Montisburgi, & filios nostros W. Priorem, & Monachos S. Cosmę de Ecclesia Morsalinarum facta est, fraternitatem nostram noueritis confirmasse, videlicet vt Monachi Montisburgi duas partes decimę frugum de omni terra quam habent Monachi S. Cosmę in Morsalinis, habeant & teneant, & in recognitionem x.solidos Andegauenses vel Rothomagēses Priori & Monachis S. Cosmæ annuatim reddant. Ipsa vero Ecclesia, & impositio Sacerdotis, {1418}& ea quæ ad altare & cimiterium pertinent, Priori & Monachis S. Cosmæ libere & quiete remanebunt. Vt autem hæc conuentio inter ipsos rata & inconcussa maneat in æternum, sublimitatem vestram deprecamur, vt Chartam vestram eis inde faciatis, & eorum concordiam authoritate vestra confirmetis. Valeat paternitas vestra.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -607,7 +607,7 @@ Alia Charta eiusdem Petri Abb. super eadem Ecclesia.
 
 ??
 
-Venerabili & dilecto nostro dōno Willelmo Abbati Montisburgi, omnique Conuentui, frater P. humilis Clun. Abbas salutem & orationes. Litteras dilecti filij nostri Willelmi Prioris S. Cosmæ vidimus & audiuimus. Concordiam vero quæ inter Abbatiā vestram & Ecclesiā S. Cosmæ de Ecclesia Morsalinarum facta est, fraternitatem nostram noueritis confirmasse, videlicet vt duas partes decimæ frugum de omni terra quā habent Monachi S. Cosmæ in Morsali, in perpetuum habeatis, & teneatis, & in recognitionem x.solid. Andegau. vel Rothomag. Priori eiusdē loci reddatis. Ipsa vero Ecclesia, impositio Sacerdotis, & ea quæ ad altare & cimiterium pertinent, Priori S. Cosmæ & Monachis, libere & quiete remanebunt. Vt autem hæc conuentio rata & inconcussa maneat in ęternum, pręsentes litteras sigilli nostri auctoritate munitas vobis destinare curauimus, Valete.  
+Venerabili & dilecto nostro dōno Willelmo Abbati Montisburgi, omnique Conuentui, frater P. humilis Clun. Abbas salutem & orationes. Litteras dilecti filij nostri Willelmi Prioris S. Cosmæ vidimus & audiuimus. Concordiam vero quæ inter Abbatiā vestram & Ecclesiā S. Cosmæ de Ecclesia Morsalinarum facta est, fraternitatem nostram noueritis confirmasse, videlicet vt duas partes decimæ frugum de omni terra quā habent Monachi S. Cosmæ in Morsali, in perpetuum habeatis, & teneatis, & in recognitionem x.solid. Andegau. vel Rothomag. Priori eiusdē loci reddatis. Ipsa vero Ecclesia, impositio Sacerdotis, & ea quæ ad altare & cimiterium pertinent, Priori S. Cosmæ & Monachis, libere & quiete remanebunt. Vt autem hæc conuentio rata & inconcussa maneat in ęternum, pręsentes litteras sigilli nostri auctoritate munitas vobis destinare curauimus, Valete.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -618,7 +618,7 @@ Charta Richardi Constantiensis Episcopi super eadem Ecclesia.
 
 ??
 
-Ego Richardus Dei gratia Constantiensis Episcopus, a domno Petro Venerabili Abbate Cluniacensi expetitus, charta & sigillo meæ authoritatis, confirmo concordiam quæ facta est inter Abbatem & Monachos Montisburgi, & Ecclesiam & Monachos S. Cosmę de Ecclesia Morsalinarū, videlicet vt Monachi Montisburgi duas partes decimæ frugum de omni terra quā habent Monachi S. Cosmæ in Morsalinis, habeant & teneant, & in recognitionem x.solidos Andegau. vel Rothoma. Priori & Monachis S. Cosmæ annuatim reddant. Ipsa vero Ecclesia, & impositio Sacerdotis, & ea quæ ad altare & cimiterium pertinent, Priori & Monachis S. Cosmæ libere & quiete remanebunt. Vt autem hæc concordia inter prædictas Ecclesias rata & inconcussa maneat in æternum, pręsentis paginæ testimonio, & sigilli mei authoritate cum litteris domni Petri Abbatis Cluniacensis eandem concordiam confirmo. Huius rei testes sunt Willelmus Archidiaconus, Petrus Capellanus, Robertus de Milleto, Vnfredus Decanus, Willelmus Mala-terra, Willelmus de Vernone, Richardus de Warauilla.  
+Ego Richardus Dei gratia Constantiensis Episcopus, a domno Petro Venerabili Abbate Cluniacensi expetitus, charta & sigillo meæ authoritatis, confirmo concordiam quæ facta est inter Abbatem & Monachos Montisburgi, & Ecclesiam & Monachos S. Cosmę de Ecclesia Morsalinarū, videlicet vt Monachi Montisburgi duas partes decimæ frugum de omni terra quā habent Monachi S. Cosmæ in Morsalinis, habeant & teneant, & in recognitionem x.solidos Andegau. vel Rothoma. Priori & Monachis S. Cosmæ annuatim reddant. Ipsa vero Ecclesia, & impositio Sacerdotis, & ea quæ ad altare & cimiterium pertinent, Priori & Monachis S. Cosmæ libere & quiete remanebunt. Vt autem hæc concordia inter prædictas Ecclesias rata & inconcussa maneat in æternum, pręsentis paginæ testimonio, & sigilli mei authoritate cum litteris domni Petri Abbatis Cluniacensis eandem concordiam confirmo. Huius rei testes sunt Willelmus Archidiaconus, Petrus Capellanus, Robertus de Milleto, Vnfredus Decanus, Willelmus Mala-terra, Willelmus de Vernone, Richardus de Warauilla.\
 
 
 S. Petrus Mauricius dictus Venerabilis Abbas Clun. IX.
@@ -629,5 +629,4 @@ Alia Charta super eadem Ecclesia.
 
 ??
 
-Vniuersis Christi fidelibus ad quos præsens scriptū peruenerit. Magister Richardus Episcopus, & Philippus Archidiaconus Constantiensis salutem in Domino. Ad vniuersitatis vestrę notitiam volumus peruenire, quod causa quæ inter Abbatē & Monachos Montisburgi ex vna parte, & Priorem & Monachos S. Cosmæ ex altera vertebatur super Ecclesia de Morsalin. nobis a Sede {1419}Apostolica commissa fuit in hæc verba. AdrianvsEpiscopus seruus seruorum Dei dilectis filiis Magistro Richardo Episcopo, & Philippo Archidiacono. Conquerētibus dilectis filiis nostris Abbate & Monachis Montisburgi ad audientiam nostram peruenit, quod Willelmus Prior & Monachi S. Cosmæ Constantiensis diocesis ius suum in Ecclesia Morsalinarum iniuste detinent, & reddere contradicunt. Quocirca discretioni vestræ per Apostolica scripta mandamus, quatinus partibus in præsentia vestra constitutis, quæ hinc inde proposituri fuerint audiatis, & causam inter ipsos, appellatione remota fine Canonico terminetis, facientes quod statueritis per censuram Ecclesiasticam firmiter obseruari, &c. Datum Laterani X. Kal. Maij, Pontif. nostri an. IV. Huius igitur auctoritate mandati partes ad præsentiam nostram conuocauimus, & auditis hinc inde propositis, discordiam quæ inter inter ipsos pro memorata Ecclesia Morsalinarum fuerat, in hunc modum ad pacem & concordiam reduximus. Monachi Montisburgi duas partes decimæ frugum de omni terra quam habent Monachi S. Cosmæ in {1420}parrochia Morsalinarum libere & quiete in perpetuum possidebunt, & in recognitione x.solidos Andeg. vel Rotho. Priori & Monachis S. Cosmæ annuatim reddent. Ecclesia vero eiusdem villæ & impositio Clerici ad ea quæ ad altare & cimiterium pertinent, cum tertia parte decimæ frugum Priori & Monachis S. Cosmæ, libere & quiete in perpetuum remanebunt. Facta est autem hæc concordia assensu, & consensu Petri Abbatis & fratrum Cluniacensium, & a partibus hinc inde in præsentia nostra sacramēti interpositione confirmata. Et ne super hoc in posterum querela denuo suscitetur, & quod canonice factum est recidiuum patiatur, eandem concordiam præsentis scripti auctoritate, & sigillorum nostrorum appensione roborauimus. Test. Alueredo Cantore, Rob. de Pererio Canonico Constant. Petro Capellano, Willelmo de Vernone, Richardo de Walliuilla, Roberto de S. Germano tunc Vicecomite, Roberto Venatore, Richardo de Saucerio, Willelmo de Han, Radulpho Gaam, & aliis multis.
-
+Vniuersis Christi fidelibus ad quos præsens scriptū peruenerit. Magister Richardus Episcopus, & Philippus Archidiaconus Constantiensis salutem in Domino. Ad vniuersitatis vestrę notitiam volumus peruenire, quod causa quæ inter Abbatē & Monachos Montisburgi ex vna parte, & Priorem & Monachos S. Cosmæ ex altera vertebatur super Ecclesia de Morsalin. nobis a Sede {1419}Apostolica commissa fuit in hæc verba. AdrianvsEpiscopus seruus seruorum Dei dilectis filiis Magistro Richardo Episcopo, & Philippo Archidiacono. Conquerētibus dilectis filiis nostris Abbate & Monachis Montisburgi ad audientiam nostram peruenit, quod Willelmus Prior & Monachi S. Cosmæ Constantiensis diocesis ius suum in Ecclesia Morsalinarum iniuste detinent, & reddere contradicunt. Quocirca discretioni vestræ per Apostolica scripta mandamus, quatinus partibus in præsentia vestra constitutis, quæ hinc inde proposituri fuerint audiatis, & causam inter ipsos, appellatione remota fine Canonico terminetis, facientes quod statueritis per censuram Ecclesiasticam firmiter obseruari, \&c. Datum Laterani X. Kal. Maij, Pontif. nostri an. IV. Huius igitur auctoritate mandati partes ad præsentiam nostram conuocauimus, & auditis hinc inde propositis, discordiam quæ inter inter ipsos pro memorata Ecclesia Morsalinarum fuerat, in hunc modum ad pacem & concordiam reduximus. Monachi Montisburgi duas partes decimæ frugum de omni terra quam habent Monachi S. Cosmæ in {1420}parrochia Morsalinarum libere & quiete in perpetuum possidebunt, & in recognitione x.solidos Andeg. vel Rotho. Priori & Monachis S. Cosmæ annuatim reddent. Ecclesia vero eiusdem villæ & impositio Clerici ad ea quæ ad altare & cimiterium pertinent, cum tertia parte decimæ frugum Priori & Monachis S. Cosmæ, libere & quiete in perpetuum remanebunt. Facta est autem hæc concordia assensu, & consensu Petri Abbatis & fratrum Cluniacensium, & a partibus hinc inde in præsentia nostra sacramēti interpositione confirmata. Et ne super hoc in posterum querela denuo suscitetur, & quod canonice factum est recidiuum patiatur, eandem concordiam præsentis scripti auctoritate, & sigillorum nostrorum appensione roborauimus. Test. Alueredo Cantore, Rob. de Pererio Canonico Constant. Petro Capellano, Willelmo de Vernone, Richardo de Walliuilla, Roberto de S. Germano tunc Vicecomite, Roberto Venatore, Richardo de Saucerio, Willelmo de Han, Radulpho Gaam, & aliis multis.

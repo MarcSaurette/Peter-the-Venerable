@@ -6,9 +6,9 @@ for another Hugh _in mores_ was given to you.
 
 Hugh was noble and born of high-born parents;
 
-The ancestry of Peter’s forefathers also renders him preeminent. 
+The ancestry of Peter’s forefathers also renders him preeminent.&#x20;
 
-Hugh, outshines with Lyonnaise nobility 
+Hugh, outshines with Lyonnaise nobility&#x20;
 
 all whom Gaul worshiped and venerated.
 
@@ -24,7 +24,7 @@ In prose he is a new Cicero, in verse a new Virgil
 
 He debates like Aristotle or Socrates;
 
-In praise, he rivals the early scholars and he outdistances those following, 
+In praise, he rivals the early scholars and he outdistances those following,&#x20;
 
 Who instructed us with their sacred discourse.
 
@@ -52,7 +52,7 @@ I ask, what should I relate first? Give aid, Muses,
 
 Teach me verses worthy of so great a man.
 
-Rarely is a dignity of morescombined with easy genius, 
+Rarely is a dignity of morescombined with easy genius,&#x20;
 
 and these two are not often found together.
 
@@ -64,7 +64,7 @@ An eager youth rightly recites praise for him
 
 Because our praise properly becomes respect for him
 
-[\[P1\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_msocom_1) A singular light is given to the world by the eternal father  \[stopped checking\]
+[\[P1\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_msocom\_1) A singular light is given to the world by the eternal father  \[stopped checking]
 
 by which the heavenly kingdoms seek to lead the earth-born
 
@@ -76,7 +76,7 @@ The greatest companion of virtues always cleaved to him,
 
 Inwardly and outwardly he always preserved it.
 
-The tongue can not recount how universally he served discretion 
+The tongue can not recount how universally he served discretion&#x20;
 
 And how well suited he was to every office.
 
@@ -84,17 +84,17 @@ It does not help to fill this work with more words:
 
 What is brief and good, this is pleasing to the poet.
 
-[\[P2\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_msocom_2) When, Peter, another will praise your acts better
+[\[P2\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_msocom\_2) When, Peter, another will praise your acts better
 
 He will be another Virgil, another Homer.
 
-[\[P3\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_msocom_3) Gentle, peaceful, clement, suitably friendly, 
+[\[P3\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_msocom\_3) Gentle, peaceful, clement, suitably friendly,&#x20;
 
 No one is able to say how good you may prove to be.
 
 May long-lived old age provide us a place, therefore,
 
-And not alone may it wish to preserve the sacred regimen. 
+And not alone may it wish to preserve the sacred regimen.&#x20;
 
 Come, youths, strong in the strength of the soul!
 
@@ -106,7 +106,7 @@ Which a sober life gave to him in youth.
 
 O Cluny, the Auvergne soil sent him to you,
 
-From which our Gaul never took anything greater 
+From which our Gaul never took anything greater&#x20;
 
 Happy that it merited to produce such fruit:
 
@@ -120,9 +120,9 @@ Also the student of sweet Julian sprouted from there
 
 Who well presided over the Touraine church
 
-The Auvergnese fields of Sidonius[\[1\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_ftn1)nourished your writings
+The Auvergnese fields of Sidonius[\[1\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_ftn1)nourished your writings
 
-And you were the restorer of the ancient tongue[\[P4\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_msocom_4) .  
+And you were the restorer of the ancient tongue[\[P4\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_msocom\_4) .\
 
 
 **When he came a second time, to restore peace to the monasteries**
@@ -139,7 +139,7 @@ In that time barely past, it helped to weep
 
 And to swell ceaseless tears with further tears.
 
-For that pious man left behind only those \[tears\] for us,
+For that pious man left behind only those \[tears] for us,
 
 He, who, under God the Father, was my every hope.
 
@@ -157,13 +157,13 @@ Piety carries him. Shed the chains of error!
 
 Rejoice Poitiers! since now your walls shine bright
 
-And You, the noble church[\[2\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_ftn2)of the suburban neighbourhood,
+And You, the noble church[\[2\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_ftn2)of the suburban neighbourhood,
 
 Though you hold schismatic and seditious folk,
 
 If you seek peace, Peter –your peace– is near.
 
-You draw your swords in vain, men of  Saint-Jean-d’Angely, 
+You draw your swords in vain, men of  Saint-Jean-d’Angely,&#x20;
 
 Your every struggle will be useless.
 
@@ -191,7 +191,7 @@ Hence be mindful of the spiritual instruction,
 
 Which he granted with a skillful tongue so many times.
 
-At that time, the double joys of a sacred feast shined forth 
+At that time, the double joys of a sacred feast shined forth&#x20;
 
 When so great an angel was a guest among us.
 
@@ -219,13 +219,13 @@ Help your servant, always victorious King,
 
 So that rejoicing, he may bring to you a twofold profit.
 
-He manifoldly pleased you, who was your standard bearer, 
+He manifoldly pleased you, who was your standard bearer,&#x20;
 
 And produced civil order among your troops,
 
 Who instructed us, who taught that in our contest
 
-We are able to conquer the Ethiopians with our sacred arts[\[3\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_ftn3)
+We are able to conquer the Ethiopians with our sacred arts[\[3\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_ftn3)
 
 Therefore keep watch over him for us for a long time
 
@@ -237,13 +237,13 @@ Bring to bear, I ask, your pious hands to my words
 
 Receive the words of your poet with accustomed piety
 
-And read the insignificant verses of your littlest Peter. 
+And read the insignificant verses of your littlest Peter.&#x20;
 
-O greatest Peter, it is I, Peter, your littlest monk, 
+O greatest Peter, it is I, Peter, your littlest monk,&#x20;
 
 Who offers these insignificant writing in praise of you.
 
-The first time you came, noble Duke 
+The first time you came, noble Duke&#x20;
 
 Was when the people of Aquitaine held a parade.
 
@@ -251,7 +251,7 @@ You were hardly known to me, but whispers
 
 Spread the rays of your light here.
 
-And certainly so bright a light was not able to be hidden 
+And certainly so bright a light was not able to be hidden&#x20;
 
 Which God himself fashioned so high above.
 
@@ -263,13 +263,13 @@ Of your righteousness; then, our mind was freed for you
 
 And seeing you was the greatest passion for me.
 
-When the happy rumour suddenly resounds all around 
+When the happy rumour suddenly resounds all around&#x20;
 
 And then the imminent Father is reported to have arrived
 
 We immediately hasten, happily we all process
 
-Both sexes rejoice in meeting you. 
+Both sexes rejoice in meeting you.&#x20;
 
 Straightaway, the sacred temple resounds with new praises
 
@@ -309,7 +309,7 @@ Powerful sermon! I do not dare to write anything about you
 
 Lest I weaken the pen so seriously that it break the work.
 
-In your presence, Cicero, that king of the Latin tongue, 
+In your presence, Cicero, that king of the Latin tongue,&#x20;
 
 Would be mute, if perchance he should wish to say something.
 
@@ -321,7 +321,7 @@ I was struck dumb, I confess, by such sweetness of words,
 
 You, beginning to speak with me as described,
 
-In public opinion you garnered nothing fit to so great a shepherd 
+In public opinion you garnered nothing fit to so great a shepherd&#x20;
 
 Your voice is so much more, I see, than how it sings
 
@@ -341,9 +341,9 @@ Then your love attracted me more and more
 
 And soon I was seized altogether by your love
 
-In you, O Light of men, posture, voice, countenance, 
+In you, O Light of men, posture, voice, countenance,&#x20;
 
-bearing, and all action was full of grace, 
+bearing, and all action was full of grace,&#x20;
 
 If you had deigned to remain in the claustral fashion
 
@@ -383,7 +383,7 @@ Presenting such a mediocre gift to such a great man.
 
 For so great a fervor of pious love was in me
 
-–speaking to me – that I produced these words: 
+–speaking to me – that I produced these words:&#x20;
 
 What do you do, unhappy one, and why does your muse grow silent?
 
@@ -405,11 +405,11 @@ A fullness of piety supports this little song:
 
 It supports the meagre oath of your servant.
 
-What might I return to you, light of the world, in exchange for 
+What might I return to you, light of the world, in exchange for&#x20;
 
 The gift of our page being in your hands
 
-The blessed eyes read the insignificant words, 
+The blessed eyes read the insignificant words,&#x20;
 
 O how joyful was that day for me!
 
@@ -455,7 +455,7 @@ Soon you will be Ours.”
 
 Alas! I have already spent these many years in tears
 
-And I have not seen the promised sweetness of the father 
+And I have not seen the promised sweetness of the father&#x20;
 
 Since then I have lived every day in tears,
 
@@ -495,7 +495,7 @@ You offer thusly much profit from your flock for the Lord
 
 In you, Odilo, and the great Hugh reflourishes
 
-A twofold spirit of them both, Peter, are in you!  
+A twofold spirit of them both, Peter, are in you!\
 
 
 **In praise of his Triumph won at Rome against Pons and the Pontians,  who struggled to drive out a mindful Peter from the abbatial dignity.**
@@ -512,7 +512,7 @@ The impudent mouths of dogs quell their rabid barkings
 
 With their senses lost, the evil hearts were astounded
 
-The impious did thinkthat it possible to end this way \[did the impious think?\)
+The impious did thinkthat it possible to end this way \[did the impious think?)
 
 When they vomited out harsh threats from their diseased mouth
 
@@ -568,11 +568,11 @@ You preferred to reject goodness with a dejected soul
 
 Christ did not wish this, but he offered to you the ability
 
-To Him alone do we rightly offer gifts of praise 
+To Him alone do we rightly offer gifts of praise&#x20;
 
 And thanks alone for the marvelous victories of our duke
 
-Christ made him who was snatched from so powerful a scourge 
+Christ made him who was snatched from so powerful a scourge&#x20;
 
 Take up the sceptre high above the people
 
@@ -608,7 +608,7 @@ He remains grounded, lest the light hide behind the cloud
 
 But he spreads his rays over the whole orb.
 
-So far, the Ocean had grown familiar with you and 
+So far, the Ocean had grown familiar with you and&#x20;
 
 Gaul alone shared the knowledge of your virtues.
 
@@ -624,13 +624,13 @@ And the same sacred court regarding your men with wonder
 
 Calls for the reins of the whole world to be guided.
 
-What Latin cities, which shores of the Rhine, 
+What Latin cities, which shores of the Rhine,&#x20;
 
 Or what people of Pannonia might I call nearer kingdoms?
 
 Already has your glory penetrated the barbarian borders
 
-and the unbeaten Gethes \(Geats?\) praise the finished battles.
+and the unbeaten Gethes (Geats?) praise the finished battles.
 
 And he whom is first proven by the fire of battle
 
@@ -644,7 +644,7 @@ We reap great gains, since the source of this schism
 
 – That perfidious serpent – entirely collapses
 
-And even though the snake tries to raise up his slippery head 
+And even though the snake tries to raise up his slippery head&#x20;
 
 He is broken and in dying, he vomits out black poison.
 
@@ -652,9 +652,9 @@ The black serpents perish on account of their savage tricks
 
 And not for long does this monster remain alive in Rome
 
-But quickly shortening its savage neck with a double-edged sword 
+But quickly shortening its savage neck with a double-edged sword&#x20;
 
-\[St.?\] Peter defends Peter from his enemy.
+\[St.?] Peter defends Peter from his enemy.
 
 No longer are they able to conceal
 
@@ -662,7 +662,7 @@ The terrifying features of the wolf under the fleece of noble sheep.
 
 All of this, which was revealed by having piety,
 
-Is recognized as the impious deception of a sacrilegious mind 
+Is recognized as the impious deception of a sacrilegious mind&#x20;
 
 The fertile shore of Po River had safely fostered
 
@@ -688,7 +688,7 @@ A Rumour had arisen in the West,
 
 That one of the many prophets had unexpectedly arrived.
 
-And a mistake of the commoners had made a new schism. 
+And a mistake of the commoners had made a new schism.&#x20;
 
 While the milling peasantry thought one man another God.
 
@@ -722,7 +722,7 @@ But then returning to demand back his former oath
 
 He brings forth many battle standards under angelic command.
 
-Perhaps, the very prior \[the original?\]Martin lived again in the world
+Perhaps, the very prior \[the original?]Martin lived again in the world
 
 Who by his will alone, dissipated all evil.
 
@@ -740,7 +740,7 @@ The slippery magician distorted sober hearts.
 
 And would that he not also attempt to ensnare the learned Brutuses, and the rigid Catonians with multiple deceipts
 
-Indeed it is sad to say, but that great Girard \[bishop of Angoulême\]
+Indeed it is sad to say, but that great Girard \[bishop of Angoulême]
 
 Alas! He was able to be taken in by such cunning.
 
@@ -754,7 +754,7 @@ Which had under it all the peoples of the whole world!
 
 Never did sacred faith experience injury there
 
-By whose faith, that great scepter bearer sat 
+By whose faith, that great scepter bearer sat&#x20;
 
 Whose walls – founded on purple blood
 
@@ -764,11 +764,11 @@ Paul its counterpart also guards the walls
 
 And together they hold the imperial dignity.
 
-No schism of any error is able to harm 
+No schism of any error is able to harm&#x20;
 
 A city committed to heaven by such princes
 
-To you, Fathers and greatest friends of the \[Jove the\] Thunderer.
+To you, Fathers and greatest friends of the \[Jove the] Thunderer.
 
 It is fitting to repeat the wishes of song and praise.
 
@@ -782,7 +782,7 @@ To be the principal leader of the courtly order.
 
 Under your eagle standards he had discharged his youthful years,
 
-And finished his days in virtue. 
+And finished his days in virtue.&#x20;
 
 Often had he vanquished the savage enemy with his sacred arms,
 
@@ -810,7 +810,7 @@ For which reason he was able to be a Father to his fathers.
 
 I do not know how he shone out so brightly to you at that age,
 
-At which the highest office deservedly was appropriate. 
+At which the highest office deservedly was appropriate.&#x20;
 
 And not in vain was one taken from so legion the ranks
 
@@ -818,13 +818,13 @@ Who ruled civil justice like the Caesars.
 
 Capitoline senators, to whom the Creator of the world himself
 
-Gave the reins of ruling the Roman Empire, 
+Gave the reins of ruling the Roman Empire,&#x20;
 
 Were not, I believe, without heavenly counsel
 
 Insofar as, with the civil status almost faltering,
 
-when the venerable court considered 
+when the venerable court considered&#x20;
 
 the mystery of your will concerning the choosing of a leader.
 
@@ -844,19 +844,19 @@ Therefore, to your eyes, by which no hidden affair passes unseen,
 
 Peter –both pious duke and father, was pleasing in this fashion.
 
-For he is truly happy and should be adorned with every honour, 
+For he is truly happy and should be adorned with every honour,&#x20;
 
 who is able to be good in your judgement.
 
-He is happy, who is thought to be stronger 
+He is happy, who is thought to be stronger&#x20;
 
 and more worthy of high command than all others.
 
-Thence, without doubt, it was made clear long ago to me, 
+Thence, without doubt, it was made clear long ago to me,&#x20;
 
 that this man does not lack any gift of virtue.
 
-And unlike those of meagre blood we frequently see 
+And unlike those of meagre blood we frequently see&#x20;
 
 laying claim to what the veins deny in them.
 
@@ -872,7 +872,7 @@ Surely previously emerged the brightest glory of the Arvergne
 
 and light of this fatherland, and its pride,
 
-Saint Maurice[\[4\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_ftn4), whom –killed- our Aquitaine still mourns, with whom the grace and complete power of a people
+Saint Maurice[\[4\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_ftn4), whom –killed- our Aquitaine still mourns, with whom the grace and complete power of a people
 
 may have been buried, had not his noble line continued
 
@@ -882,7 +882,7 @@ The lesser to none, an image of the ancestral virtue.
 
 Wipe away your tears therefore, Aquitaine. What you mourned
 
-To have perished in a –strictly speaking– mortal man, 
+To have perished in a –strictly speaking– mortal man,&#x20;
 
 His sacred progeny render to you in profit many times over.
 
@@ -892,11 +892,11 @@ Whosoever were outstanding in morals or in wealth
 
 The older Maurice made heirs and still now
 
-he, as a whole, is seen to live in the brothers of Odo/Otto 
+he, as a whole, is seen to live in the brothers of Odo/Otto&#x20;
 
 At any time, the same piety and a similar virtue of the Father
 
-Shines out with miraculous splendour in his seven relics: 
+Shines out with miraculous splendour in his seven relics:&#x20;
 
 Among them, however, You, Our Lord and Illustrious Shepherd,
 
@@ -968,13 +968,13 @@ When travelling the length and width of the lands of his vast empire:
 
 the cities, the castles, the fortresses, villages
 
-with the senate of noble aristocrats accompanying him 
+with the senate of noble aristocrats accompanying him&#x20;
 
 Deem it fit to visit our province.
 
 And, everything which the Great Ocean and the banks of the Loire enclose the people of these lands with a twofold barrier,
 
-he will grant 
+he will grant&#x20;
 
 And with the crowds of people gathering everywhere
 
@@ -986,13 +986,13 @@ Which are able to rid a man of unhappy worries;
 
 Then to me, long after the departure of great men,
 
-Hiding among the many commoners of the unlearned public 
+Hiding among the many commoners of the unlearned public&#x20;
 
 It is fit that you extend your sacred right hand in your accustomed way.
 
 Save me, I say, come near and be speedy.
 
-I will not hesitate one moment to turn the promises into actions.  
+I will not hesitate one moment to turn the promises into actions.\
 
 
 **When he sailed across to the Isle of Aix**.
@@ -1023,22 +1023,21 @@ Take me now, I beg, for the fulfillment of my pledges.
 
 Make it that I be able to see your Cluniacs with you!
 
-Let there be honour and virtue and long life to you.  
+Let there be honour and virtue and long life to you.\
 
 
-[\[1\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_ftnref1)Gaius Sollius Apollinaris Sidonius \(430-480 A.D.\)? Gallo-Roman poet, bishop of the chief town of the Auvergne region of Gaul.
+[\[1\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_ftnref1)Gaius Sollius Apollinaris Sidonius (430-480 A.D.)? Gallo-Roman poet, bishop of the chief town of the Auvergne region of Gaul.
 
-[\[2\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_ftnref2)Montierneuf.
+[\[2\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_ftnref2)Montierneuf.
 
-[\[3\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_ftnref3)Contra Sarracenos? A later revision?
+[\[3\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_ftnref3)Contra Sarracenos? A later revision?
 
-[\[4\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_ftnref4)Peter the Venerable = Peter Maurice de Montboissier/ father = Maurice
+[\[4\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_ftnref4)Peter the Venerable = Peter Maurice de Montboissier/ father = Maurice
 
- [\[P1\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_msoanchor_1)self-reference, and justification
+&#x20;[\[P1\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_msoanchor\_1)self-reference, and justification
 
- [\[P2\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_msoanchor_2)brevity topos
+&#x20;[\[P2\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_msoanchor\_2)brevity topos
 
- [\[P3\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_msoanchor_3)self-praise
+&#x20;[\[P3\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_msoanchor\_3)self-praise
 
- [\[P4\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#_msoanchor_4)PV as claim to Classical Latinity
-
+&#x20;[\[P4\]](applewebdata://AE0B6611-A3A9-4E67-8F9C-C0BDA075683B#\_msoanchor\_4)PV as claim to Classical Latinity
